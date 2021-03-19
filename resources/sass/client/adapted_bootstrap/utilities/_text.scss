@@ -1,0 +1,72 @@
+// stylelint-disable declaration-no-important
+
+//
+// Text
+//
+
+.kel-text-monospace { font-family: $font-family-monospace !important; }
+
+// Alignment
+
+.kel-text-justify  { text-align: justify !important; }
+.kel-text-wrap     { white-space: normal !important; }
+.kel-text-nowrap   { white-space: nowrap !important; }
+.kel-text-truncate { @include text-truncate; }
+
+// Responsive alignment
+
+@each $breakpoint in map-keys($grid-breakpoints) {
+  @include media-breakpoint-up($breakpoint) {
+    $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
+
+    .kel-text#{$infix}-left   { text-align: left !important; }
+    .kel-text#{$infix}-right  { text-align: right !important; }
+    .kel-text#{$infix}-center { text-align: center !important; }
+  }
+}
+
+// Transformation
+
+.kel-text-lowercase  { text-transform: lowercase !important; }
+.kel-text-uppercase  { text-transform: uppercase !important; }
+.kel-text-capitalize { text-transform: capitalize !important; }
+
+// Weight and italics
+
+.kel-font-weight-light   { font-weight: $font-weight-light !important; }
+.kel-font-weight-lighter { font-weight: $font-weight-lighter !important; }
+.kel-font-weight-normal  { font-weight: $font-weight-normal !important; }
+.kel-font-weight-bold    { font-weight: $font-weight-bold !important; }
+.kel-font-weight-bolder  { font-weight: $font-weight-bolder !important; }
+.kel-font-italic         { font-style: italic !important; }
+
+// Contextual colors
+
+.kel-text-white { color: $white !important; }
+
+@each $color, $value in $theme-colors {
+  @include text-emphasis-variant(".kel-text-#{$color}", $value);
+}
+
+.kel-text-body { color: $body-color !important; }
+.kel-text-muted { color: $text-muted !important; }
+
+.kel-text-black-50 { color: rgba($black, .5) !important; }
+.kel-text-white-50 { color: rgba($white, .5) !important; }
+
+// Misc
+
+.kel-text-hide {
+  @include text-hide($ignore-warning: true);
+}
+
+.kel-text-decoration-none { text-decoration: none !important; }
+
+.kel-text-break {
+  word-break: break-word !important; // IE & < Edge 18
+  overflow-wrap: break-word !important;
+}
+
+// Reset
+
+.kel-text-reset { color: inherit !important; }

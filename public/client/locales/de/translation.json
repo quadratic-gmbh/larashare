@@ -1,0 +1,101 @@
+{
+	"save": "Speichern",
+	"hour": "Stunde",
+	"hour_plural": "Stunden",
+	"no":"Nein",
+	"yes":"Ja",
+	"day": "Tag",
+	"whatever": "egal",
+	"day_plural": "Tage",
+	"error": {
+	  "config_failed": "Client konnte nicht initialisiert werden."
+	},
+	"bike": {
+		"rental_place": "Standort",
+		"terms_of_use": "Nutzungsbedingungen",
+		"wheels": {
+			"2": "Zweirädrig",
+			"3": "Dreirädrig",
+			"4": "Vierrädrig"
+		},
+		"children0": "Kein Kindersitz",  		  		
+		"children": "Sitz und Gurt für 1 Kind",				
+		"children_plural": "Sitz und Gurte für {{count}} Kinder",
+		"child_seat": "Kindersitz",
+		"electric": {
+			"0": "Ohne E-Antrieb",
+			"1": "Mit E-Antrieb"
+		},
+		"box_type": {
+			"NO_BOX": "Keine Box",
+			"LOCKABLE": "Verschließbare Box",
+			"NON_LOCKABLE": "Nicht verschließbare Box"
+		},
+		"rental_duration_in_days": {
+			"0": "Stunden",
+			"1": "Tage"
+		},
+		"name": "Name deines Transportrads (darfst du dir selbst ausdenken)",
+		"model": "Hersteller + Typ (zB Christiania light)",
+		"cargo_weight": "Maximale Zuladung in kg",
+		"cargo_length": "Länge der Ladefläche in cm",
+		"cargo_width": "Breite der Ladefläche in cm",
+		"misc_equipment": "Sonstige Ausstattung (zB Abdeckplane, Zurrgurte etc)",
+		"description": "Beschreibung und Einschränkungen (zB Wofür eignet sich das Rad besonders gut? Kein Tiertransport, Verleih nur an Personen über 18 etc.)",
+		"buffer_time_before": "Pufferzeit vor Ausleihen",
+		"buffer_time_after": "Pufferzeit nach Ausleihen",
+		"pricing": {
+			"free": "Gratis",
+			"donation": "Freie Spende",
+			"fixed": "Fixpreis",
+			"eur_per": "EUR pro",
+			"deposit": "Kaution"
+		},
+		"pricing_type": {
+			"FREE": "Gratis",
+			"DONATION": "Freie Spende",
+			"FREE_OR_DONATION": "Gratis / Freie Spende",
+			"FIXED": "Fixpreis"
+		},
+		"pricing_rate": {
+			"HOURLY": "Stunde",
+			"DAILY": "Tag",
+			"WEEKLY": "Woche"
+		}
+	},
+	"search": {
+    "search": "Suchen",
+	  "form" : {
+      "flex" : {
+        "flex" : "Flexibles Datum",
+        "1" : "+/- 1 Tag",
+        "2" : "+/- 2 Tag",
+        "3" : "+/- 3 Tag"
+      },
+      "details" : "Detailsuche",
+      "time" : "Abholung und Rückgabe",
+      "cargo_weight" : "Zuladung",
+      "cargo_width" : "Breite der Ladefläche",
+      "cargo_length" : "Länge der Ladefläche",
+      "children" : "Kindersitzplätze",
+      "electric" : "Elektro-Unterstützung",
+      "wheels" : "Transportradtyp",
+      "box_type_id" : "Transport-Kiste",    
+      "reset" : "Suche/Filter zurücksetzen"
+    },
+    "current_location" : "Aktuelle Position",
+    "randomness_hint": "Aus Datenschutzgründen werden die Symbole nicht exakt am Standort, sondern unmittelbar in der Nähe angezeigt. Die genaue Adresse erfährst Du nach der Reservierung.",
+    "no_result" : "Keine geeigneten Räder für deine Suchkriterien gefunden. Bitte ändere deine Kriterien.",
+    "result" : {
+      "cargo_weight" : "Maximale Zuladung: {{n}} kg",
+      "cargo_length" : "Länge der Ladefläche: {{n}} cm",
+      "cargo_width" : "Breite der Ladefläche: {{n}} cm",
+      "children" : "Kindersitz",
+      "reserve_link" : "Zur Reservierung"
+    },
+    "index" : {
+      "popup_title" : "Lastenräder",
+      "invalid_location" : "Standort konnte nicht bestimmt werden."
+    }
+  }
+}

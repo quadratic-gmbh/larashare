@@ -1,0 +1,22 @@
+/*!
+ * Bootstrap v4.3.1 (https://getbootstrap.com/)
+ * Copyright 2011-2019 The Bootstrap Authors
+ * Copyright 2011-2019 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * 
+ * adapted class names to prevent conflicts with on-site bootstrap (prefixed with kel-)
+ */
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+@import "~bootstrap/scss/mixins";
+@import "adapted_bootstrap/reboot";
+@import "adapted_bootstrap/utilities";
+@import "adapted_bootstrap/mixins";
+@import "adapted_bootstrap/buttons";
+@import "adapted_bootstrap/forms";
+@import "adapted_bootstrap/custom-forms";
+@import "adapted_bootstrap/input-group";
+@import "adapted_bootstrap/grid";
+@import "adapted_bootstrap/type";
+
+

@@ -1,0 +1,2540 @@
+ 
+msgctxt "auth.php:failed"
+msgid "Die Zugangsdaten stimmen nicht mit unseren Daten überein."
+msgstr "Die Zugangsdaten stimmen nicht mit unseren Daten überein."
+ 
+msgctxt "auth.php:throttle"
+msgid "Zu viele Login-Versuche. Bitte in :seconds Sekunden noch einmal versuchen."
+msgstr "Zu viele Login-Versuche. Bitte in :seconds Sekunden noch einmal versuchen."
+ 
+msgctxt "auth.php:register.register"
+msgid "Registrieren"
+msgstr "Registrieren"
+ 
+msgctxt "auth.php:register.title"
+msgid "Registrierung"
+msgstr "Registrierung"
+ 
+msgctxt "auth.php:register.hint"
+msgid "*Pflichtangabe (Diese Angaben sind Grundlage für die Ausleihe von wertvollen Transporträdern, daher ersuchen wir um vollständige Adressangaben und Geburtsdatum. Alle Daten werden natürlich vertraulich behandelt.)"
+msgstr "*Pflichtangabe (Diese Angaben sind Grundlage für die Ausleihe von wertvollen Transporträdern, daher ersuchen wir um vollständige Adressangaben und Geburtsdatum. Alle Daten werden natürlich vertraulich behandelt.)"
+ 
+msgctxt "auth.php:register.accept_tos_text"
+msgid "Ich akzeptiere die <a href=":url" target="_blank">Allgemeinen Nutzungsbedingungen</a> und bin damit einverstanden, dass meine Daten an Ver-/Ausleiher/innen weitergegeben werden."
+msgstr "Ich akzeptiere die <a href=":url" target="_blank">Allgemeinen Nutzungsbedingungen</a> und bin damit einverstanden, dass meine Daten an Ver-/Ausleiher/innen weitergegeben werden."
+ 
+msgctxt "auth.php:register.accept_tos_error"
+msgid "Die Allgemeinen Nutzungsbedingungen müssen akzeptiert werden."
+msgstr "Die Allgemeinen Nutzungsbedingungen müssen akzeptiert werden."
+ 
+msgctxt "auth.php:register.referrer_text"
+msgid "Ich habe von dieser Transportrad-Plattform erfahren durch:"
+msgstr "Ich habe von dieser Transportrad-Plattform erfahren durch:"
+ 
+msgctxt "auth.php:register.newsletter"
+msgid "Ich bin damit einverstanden, den Newsletter zu erhalten. - Du kannst dich jederzeit über einen Link im Newsletter oder in deinem Profil wieder abmelden."
+msgstr "Ich bin damit einverstanden, den Newsletter zu erhalten. - Du kannst dich jederzeit über einen Link im Newsletter oder in deinem Profil wieder abmelden."
+ 
+msgctxt "auth.php:login.login"
+msgid "Einloggen"
+msgstr "Einloggen"
+ 
+msgctxt "auth.php:login.remember"
+msgid "30 Tage merken"
+msgstr "30 Tage merken"
+ 
+msgctxt "auth.php:login.register"
+msgid "Noch kein Konto? - Hier registrieren"
+msgstr "Noch kein Konto? - Hier registrieren"
+ 
+msgctxt "auth.php:login.forgot_password"
+msgid "Passwort vergessen?"
+msgstr "Passwort vergessen?"
+ 
+msgctxt "auth.php:logout"
+msgid "Logout"
+msgstr "Logout"
+ 
+msgctxt "auth.php:reset.title"
+msgid "Passwort zurücksetzen"
+msgstr "Passwort zurücksetzen"
+ 
+msgctxt "auth.php:reset.send_link"
+msgid "Passwort-Reset Link senden"
+msgstr "Passwort-Reset Link senden"
+ 
+msgctxt "auth.php:reset.save"
+msgid "Neues Passwort setzen"
+msgstr "Neues Passwort setzen"
+ 
+msgctxt "bike.php:user_warnings.no_rental_period"
+msgid "Achtung, Lastenrad :name hat derzeit keine Verleihzeiten eingetragen."
+msgstr "Achtung, Lastenrad :name hat derzeit keine Verleihzeiten eingetragen."
+ 
+msgctxt "bike.php:user_warnings.not_public"
+msgid "Achtung, das Lastenrad :name ist noch nicht veröffentlicht."
+msgstr "Achtung, das Lastenrad :name ist noch nicht veröffentlicht."
+ 
+msgctxt "bike.php:user_warnings.no_image"
+msgid "Achtung, bei Lastenrad :name hast du noch kein Foto hochgeladen."
+msgstr "Achtung, bei Lastenrad :name hast du noch kein Foto hochgeladen."
+ 
+msgctxt "bike.php:form_tabs_header"
+msgid "Transportrad bearbeiten"
+msgstr "Transportrad bearbeiten"
+ 
+msgctxt "bike.php:form_tabs_header_new"
+msgid "Transportrad anlegen"
+msgstr "Transportrad anlegen"
+ 
+msgctxt "bike.php:form_tabs.edit"
+msgid "Allgemeine Angaben"
+msgstr "Allgemeine Angaben"
+ 
+msgctxt "bike.php:form_tabs.images"
+msgid "Bilder"
+msgstr "Bilder"
+ 
+msgctxt "bike.php:form_tabs.rental_period"
+msgid "Verleihzeiten"
+msgstr "Verleihzeiten"
+ 
+msgctxt "bike.php:form_tabs.review"
+msgid "Zeiten einzeln bearbeiten"
+msgstr "Zeiten einzeln bearbeiten"
+ 
+msgctxt "bike.php:form_tabs.publish"
+msgid "Veröffentlichen"
+msgstr "Veröffentlichen"
+ 
+msgctxt "bike.php:rental_place"
+msgid "Standort"
+msgstr "Standort"
+ 
+msgctxt "bike.php:rental_mode.rental_mode"
+msgid "Verleihmodus"
+msgstr "Verleihmodus"
+ 
+msgctxt "bike.php:rental_mode.none"
+msgid "Kein Verleih"
+msgstr "Kein Verleih"
+ 
+msgctxt "bike.php:rental_mode.INQUIRY"
+msgid "Verleih nur nach Freigabe"
+msgstr "Verleih nur nach Freigabe"
+ 
+msgctxt "bike.php:rental_mode.INSTANT_RESERVATION"
+msgid "Fixbuchung ohne Rückfrage"
+msgstr "Fixbuchung ohne Rückfrage"
+ 
+msgctxt "bike.php:pricing_type.FREE"
+msgid "Gratis"
+msgstr "Gratis"
+ 
+msgctxt "bike.php:pricing_type.DONATION"
+msgid "Freie Spende"
+msgstr "Freie Spende"
+ 
+msgctxt "bike.php:pricing_type.FREE_OR_DONATION"
+msgid "Gratis / Freie Spende"
+msgstr "Gratis / Freie Spende"
+ 
+msgctxt "bike.php:pricing_type.FIXED"
+msgid "Fixpreis"
+msgstr "Fixpreis"
+ 
+msgctxt "bike.php:index.title"
+msgid "Meine Lastenräder"
+msgstr "Meine Lastenräder"
+ 
+msgctxt "bike.php:index.header_editable"
+msgid "Andere Lastenräder"
+msgstr "Andere Lastenräder"
+ 
+msgctxt "bike.php:index.empty_text"
+msgid "Keine Räder vorhanden"
+msgstr "Keine Räder vorhanden"
+ 
+msgctxt "bike.php:index.embeds_link"
+msgid "Einbindung von Transporträdern in deine Website"
+msgstr "Einbindung von Transporträdern in deine Website"
+ 
+msgctxt "bike.php:index.link_reservations"
+msgid "Reservierungen"
+msgstr "Reservierungen"
+ 
+msgctxt "bike.php:index.link_editors"
+msgid "Administrator/innen"
+msgstr "Administrator/innen"
+ 
+msgctxt "bike.php:index.new"
+msgid "Neues Transportrad anlegen"
+msgstr "Neues Transportrad anlegen"
+ 
+msgctxt "bike.php:editors.title"
+msgid "Autorisierte Benutzer/innen"
+msgstr "Autorisierte Benutzer/innen"
+ 
+msgctxt "bike.php:editors.title_editors_remove"
+msgid ":name Zugriffsrechte abnehmen?"
+msgstr ":name Zugriffsrechte abnehmen?"
+ 
+msgctxt "bike.php:editors.empty_text"
+msgid "Keine Benutzer vorhanden"
+msgstr "Keine Benutzer vorhanden"
+ 
+msgctxt "bike.php:editors.cant_add_owner"
+msgid "Ist Besitzer."
+msgstr "Ist Besitzer."
+ 
+msgctxt "bike.php:editors.cant_add_again"
+msgid "Hat bereits Zugriff."
+msgstr "Hat bereits Zugriff."
+ 
+msgctxt "bike.php:destroy_ask.header_bike"
+msgid "Transportrad ":name" löschen?"
+msgstr "Transportrad ":name" löschen?"
+ 
+msgctxt "bike.php:destroy_ask.header_rental_place"
+msgid "Verleihstandort ":name" löschen?"
+msgstr "Verleihstandort ":name" löschen?"
+ 
+msgctxt "bike.php:deleted"
+msgid "[gelöschtes Bike]"
+msgstr "[gelöschtes Bike]"
+ 
+msgctxt "bike.php:form.header_edit"
+msgid "Transportrad bearbeiten"
+msgstr "Transportrad bearbeiten"
+ 
+msgctxt "bike.php:form.header_new"
+msgid "Transportrad anlegen"
+msgstr "Transportrad anlegen"
+ 
+msgctxt "bike.php:form.subheader_bike"
+msgid "Angaben zum Rad"
+msgstr "Angaben zum Rad"
+ 
+msgctxt "bike.php:form.subheader_buffer_time"
+msgid "Pufferzeiten"
+msgstr "Pufferzeiten"
+ 
+msgctxt "bike.php:form.subheader_cost"
+msgid "Kosten"
+msgstr "Kosten"
+ 
+msgctxt "bike.php:form.subheader_rental_duration"
+msgid "Verleihdauer"
+msgstr "Verleihdauer"
+ 
+msgctxt "bike.php:form.subheader_rental_places"
+msgid "Verleihstandort(e)"
+msgstr "Verleihstandort(e)"
+ 
+msgctxt "bike.php:form.buffer_time_text"
+msgid "Zeiten vor und nach den Ausleihen - zB für das Laden von E-Bike-Akkus"
+msgstr "Zeiten vor und nach den Ausleihen - zB für das Laden von E-Bike-Akkus"
+ 
+msgctxt "bike.php:form.add_place"
+msgid "Weiteren Verleihstandort hinzufügen"
+msgstr "Weiteren Verleihstandort hinzufügen"
+ 
+msgctxt "bike.php:form.remove_place"
+msgid "Verleihstandort entfernen"
+msgstr "Verleihstandort entfernen"
+ 
+msgctxt "bike.php:form.add_email"
+msgid "Weitere E-Mail-Adresse zu diesem Verleihstandort hinzufügen"
+msgstr "Weitere E-Mail-Adresse zu diesem Verleihstandort hinzufügen"
+ 
+msgctxt "bike.php:form.remove_email"
+msgid "E-Mail-Adresse von diesem Verleihstandort entfernen"
+msgstr "E-Mail-Adresse von diesem Verleihstandort entfernen"
+ 
+msgctxt "bike.php:form.tos_template"
+msgid "Hier findest du eine Vorlage für Nutzungsbedingungen"
+msgstr "Hier findest du eine Vorlage für Nutzungsbedingungen"
+ 
+msgctxt "bike.php:form.errors.pricing.one_required"
+msgid "Zumindest eine Kosten-Art muss angegeben werden."
+msgstr "Zumindest eine Kosten-Art muss angegeben werden."
+ 
+msgctxt "bike.php:form.errors.pricing.not_with_free_or_donation"
+msgid "Kann nicht zusammen mit "Gratis" oder "Freie Spende" gewählt werden."
+msgstr "Kann nicht zusammen mit "Gratis" oder "Freie Spende" gewählt werden."
+ 
+msgctxt "bike.php:form.errors.terms_of_use.not_both"
+msgid "Bitte entweder vorhandene Nutzungsbedingungen löschen oder sie durch neue ersetzen."
+msgstr "Bitte entweder vorhandene Nutzungsbedingungen löschen oder sie durch neue ersetzen."
+ 
+msgctxt "bike.php:form.errors.rental_place.one_required"
+msgid "Zumindest ein Verleihstandort muss angegeben werden."
+msgstr "Zumindest ein Verleihstandort muss angegeben werden."
+ 
+msgctxt "bike.php:form.errors.email.duplicates"
+msgid "E-Mail-Adressen dürfen pro Verleihstandort nicht mehrfach eingetragen werden."
+msgstr "E-Mail-Adressen dürfen pro Verleihstandort nicht mehrfach eingetragen werden."
+ 
+msgctxt "bike.php:form.errors.email.one_required"
+msgid "Pro Verleihstandort muss zumindest eine E-Mail-Adresse angegeben werden."
+msgstr "Pro Verleihstandort muss zumindest eine E-Mail-Adresse angegeben werden."
+ 
+msgctxt "bike.php:rental_periods.title"
+msgid "Verleihzeiten"
+msgstr "Verleihzeiten"
+ 
+msgctxt "bike.php:rental_periods.hint"
+msgid "Du kannst nacheinander verschiedene Verleihzeiten anlegen. - Also zB im ersten Schritt die Vormittags-Öffnungszeiten eingeben und speichern und in einem zweiten Schritt unter "Weitere Zeiten hinzufügen" die Nachmittags-Öffnungszeiten. Oder zuerst Mo-Fr und als weitere Zeit Sa."
+msgstr "Du kannst nacheinander verschiedene Verleihzeiten anlegen. - Also zB im ersten Schritt die Vormittags-Öffnungszeiten eingeben und speichern und in einem zweiten Schritt unter "Weitere Zeiten hinzufügen" die Nachmittags-Öffnungszeiten. Oder zuerst Mo-Fr und als weitere Zeit Sa."
+ 
+msgctxt "bike.php:rental_periods.list_title"
+msgid "Vorhandene Verleihzeiten"
+msgstr "Vorhandene Verleihzeiten"
+ 
+msgctxt "bike.php:rental_periods.rental_place_select"
+msgid "Standortauswahl"
+msgstr "Standortauswahl"
+ 
+msgctxt "bike.php:rental_periods.weekdays"
+msgid "übernehmen für"
+msgstr "übernehmen für"
+ 
+msgctxt "bike.php:rental_periods.dates"
+msgid "Gültigkeit der Verleihzeiten"
+msgstr "Gültigkeit der Verleihzeiten"
+ 
+msgctxt "bike.php:rental_periods.times"
+msgid "Verleihzeiten"
+msgstr "Verleihzeiten"
+ 
+msgctxt "bike.php:rental_periods.link_add"
+msgid "Weitere Zeiten hinzufügen"
+msgstr "Weitere Zeiten hinzufügen"
+ 
+msgctxt "bike.php:rental_periods.link_rem"
+msgid "Alle Zeiten löschen"
+msgstr "Alle Zeiten löschen"
+ 
+msgctxt "bike.php:rental_periods.link_proceed"
+msgid "Weiter zum Überprüfen und Bearbeiten einzelner Tage"
+msgstr "Weiter zum Überprüfen und Bearbeiten einzelner Tage"
+ 
+msgctxt "bike.php:rental_periods_exception.title"
+msgid "Verleihzeit bearbeiten"
+msgstr "Verleihzeit bearbeiten"
+ 
+msgctxt "bike.php:rental_periods_review.title"
+msgid "Verleihzeitraum Überprüfen"
+msgstr "Verleihzeitraum Überprüfen"
+ 
+msgctxt "bike.php:rental_periods_review.hint"
+msgid "Hier kannst du im Kalender einzelne Tage und Zeitspannen löschen"
+msgstr "Hier kannst du im Kalender einzelne Tage und Zeitspannen löschen"
+ 
+msgctxt "bike.php:publish.title"
+msgid "Veröffentlichen"
+msgstr "Veröffentlichen"
+ 
+msgctxt "bike.php:publish.accepts_tos"
+msgid "Ich habe die <a href=":url" target="_blank">Allgemeinen Nutzungsbedingungen</a> gelesen und stimme ihnen zu."
+msgstr "Ich habe die <a href=":url" target="_blank">Allgemeinen Nutzungsbedingungen</a> gelesen und stimme ihnen zu."
+ 
+msgctxt "bike.php:publish.has_permission"
+msgid "Ich bin berechtigt, dieses Fahrrad zum Verleih anzubieten."
+msgstr "Ich bin berechtigt, dieses Fahrrad zum Verleih anzubieten."
+ 
+msgctxt "bike.php:publish.public"
+msgid "Veröffentlichen"
+msgstr "Veröffentlichen"
+ 
+msgctxt "bike.php:wheels.2"
+msgid "Zweirädrig"
+msgstr "Zweirädrig"
+ 
+msgctxt "bike.php:wheels.3"
+msgid "Dreirädrig"
+msgstr "Dreirädrig"
+ 
+msgctxt "bike.php:wheels.4"
+msgid "Vierrädrig"
+msgstr "Vierrädrig"
+ 
+msgctxt "bike.php:children"
+msgid "{0} Kein Kindersitz|{1} Sitz und Gurt für 1 Kind|[2,*] Sitz und Gurte für :i Kinder"
+msgstr "{0} Kein Kindersitz|{1} Sitz und Gurt für 1 Kind|[2,*] Sitz und Gurte für :i Kinder"
+ 
+msgctxt "bike.php:child_seat"
+msgid "Kindersitz"
+msgstr "Kindersitz"
+ 
+msgctxt "bike.php:electric.0"
+msgid "Ohne E-Antrieb"
+msgstr "Ohne E-Antrieb"
+ 
+msgctxt "bike.php:electric.1"
+msgid "Mit E-Antrieb"
+msgstr "Mit E-Antrieb"
+ 
+msgctxt "bike.php:box_type.NO_BOX"
+msgid "Keine Box"
+msgstr "Keine Box"
+ 
+msgctxt "bike.php:box_type.LOCKABLE"
+msgid "Verschließbare Box"
+msgstr "Verschließbare Box"
+ 
+msgctxt "bike.php:box_type.NON_LOCKABLE"
+msgid "Nicht verschließbare Box"
+msgstr "Nicht verschließbare Box"
+ 
+msgctxt "bike.php:rental_duration_in_days.0"
+msgid "Stunden"
+msgstr "Stunden"
+ 
+msgctxt "bike.php:rental_duration_in_days.1"
+msgid "Tage"
+msgstr "Tage"
+ 
+msgctxt "bike.php:name"
+msgid "Name deines Transportrads (darfst du dir selbst ausdenken)"
+msgstr "Name deines Transportrads (darfst du dir selbst ausdenken)"
+ 
+msgctxt "bike.php:model"
+msgid "Hersteller + Typ (zB Christiania light)"
+msgstr "Hersteller + Typ (zB Christiania light)"
+ 
+msgctxt "bike.php:cargo_weight"
+msgid "Maximale Zuladung in kg"
+msgstr "Maximale Zuladung in kg"
+ 
+msgctxt "bike.php:cargo_length"
+msgid "Länge der Ladefläche in cm"
+msgstr "Länge der Ladefläche in cm"
+ 
+msgctxt "bike.php:cargo_width"
+msgid "Breite der Ladefläche in cm"
+msgstr "Breite der Ladefläche in cm"
+ 
+msgctxt "bike.php:misc_equipment"
+msgid "Sonstige Ausstattung (zB Abdeckplane, Zurrgurte etc)"
+msgstr "Sonstige Ausstattung (zB Abdeckplane, Zurrgurte etc)"
+ 
+msgctxt "bike.php:description"
+msgid "Beschreibung und Einschränkungen (zB Wofür eignet sich das Rad besonders gut? Kein Tiertransport, Verleih nur an Personen über 18 etc.)"
+msgstr "Beschreibung und Einschränkungen (zB Wofür eignet sich das Rad besonders gut? Kein Tiertransport, Verleih nur an Personen über 18 etc.)"
+ 
+msgctxt "bike.php:buffer_time_before"
+msgid "Pufferzeit vor Ausleihen"
+msgstr "Pufferzeit vor Ausleihen"
+ 
+msgctxt "bike.php:buffer_time_after"
+msgid "Pufferzeit nach Ausleihen"
+msgstr "Pufferzeit nach Ausleihen"
+ 
+msgctxt "bike.php:pricing.free"
+msgid "Gratis"
+msgstr "Gratis"
+ 
+msgctxt "bike.php:pricing.donation"
+msgid "Freie Spende"
+msgstr "Freie Spende"
+ 
+msgctxt "bike.php:pricing.fixed"
+msgid "Fixpreis"
+msgstr "Fixpreis"
+ 
+msgctxt "bike.php:pricing.eur_per"
+msgid "EUR pro"
+msgstr "EUR pro"
+ 
+msgctxt "bike.php:pricing.deposit"
+msgid "Kaution"
+msgstr "Kaution"
+ 
+msgctxt "bike.php:pricing_rate.HOURLY"
+msgid "Stunde"
+msgstr "Stunde"
+ 
+msgctxt "bike.php:pricing_rate.DAILY"
+msgid "Tag"
+msgstr "Tag"
+ 
+msgctxt "bike.php:pricing_rate.WEEKLY"
+msgid "Woche"
+msgstr "Woche"
+ 
+msgctxt "bike.php:rental_duration"
+msgid "Maximale durchgehende Verleihdauer"
+msgstr "Maximale durchgehende Verleihdauer"
+ 
+msgctxt "bike.php:rental_duration_short"
+msgid "Verleihdauer"
+msgstr "Verleihdauer"
+ 
+msgctxt "bike.php:rental_duration_api"
+msgid "Max. Dauer"
+msgstr "Max. Dauer"
+ 
+msgctxt "bike.php:no_interrupt_api"
+msgid "Das Rad muss bis :time Uhr wieder zurück sein."
+msgstr "Das Rad muss bis :time Uhr wieder zurück sein."
+ 
+msgctxt "bike.php:no_interrupt_short"
+msgid "Das Rad muss am Ende dieser Verleihzeit wieder zurück sein."
+msgstr "Das Rad muss am Ende dieser Verleihzeit wieder zurück sein."
+ 
+msgctxt "bike.php:no_interrupt"
+msgid "Das Transportrad muss am Ende dieser Verleihzeit wieder zurück sein."
+msgstr "Das Transportrad muss am Ende dieser Verleihzeit wieder zurück sein."
+ 
+msgctxt "bike.php:terms_of_use_file"
+msgid "Hier kannst du eigene Nutzungsbedingungen im pdf-Format hochladen:"
+msgstr "Hier kannst du eigene Nutzungsbedingungen im pdf-Format hochladen:"
+ 
+msgctxt "bike.php:terms_of_use_file_edit"
+msgid "Es sind bereits <a href=":route" target="_blank">:tos</a> vorhanden. Du kannst sie ersetzen oder löschen:"
+msgstr "Es sind bereits <a href=":route" target="_blank">:tos</a> vorhanden. Du kannst sie ersetzen oder löschen:"
+ 
+msgctxt "bike.php:terms_of_use_accept"
+msgid "Ich habe die <a href=":route" target="_blank">:tos</a> gelesen und akzeptiere sie."
+msgstr "Ich habe die <a href=":route" target="_blank">:tos</a> gelesen und akzeptiere sie."
+ 
+msgctxt "bike.php:terms_of_use"
+msgid "Nutzungsbedingungen"
+msgstr "Nutzungsbedingungen"
+ 
+msgctxt "bike.php:delete_terms_of_use_file"
+msgid "Vorhandene Nutzungsbedingungen löschen"
+msgstr "Vorhandene Nutzungsbedingungen löschen"
+ 
+msgctxt "bike.php:rental_place_name"
+msgid "Bezeichnung des Verleihstandorts"
+msgstr "Bezeichnung des Verleihstandorts"
+ 
+msgctxt "bike.php:rental_place_street_name"
+msgid "Straße"
+msgstr "Straße"
+ 
+msgctxt "bike.php:rental_place_house_number"
+msgid "Hausnummer"
+msgstr "Hausnummer"
+ 
+msgctxt "bike.php:rental_place_postal_code"
+msgid "PLZ"
+msgstr "PLZ"
+ 
+msgctxt "bike.php:rental_place_city"
+msgid "Ort"
+msgstr "Ort"
+ 
+msgctxt "bike.php:rental_place_description"
+msgid "Zugangsbeschreibung"
+msgstr "Zugangsbeschreibung"
+ 
+msgctxt "bike.php:rental_place_email"
+msgid "E-Mail-Adresse für Kommunikation und Benachrichtigungen"
+msgstr "E-Mail-Adresse für Kommunikation und Benachrichtigungen"
+ 
+msgctxt "bike.php:rental_place_email_notify_on_reservation"
+msgid "Ich möchte bei neuen Reservierungen per E-Mail informiert werden."
+msgstr "Ich möchte bei neuen Reservierungen per E-Mail informiert werden."
+ 
+msgctxt "bike.php:show.title"
+msgid "Reservierung :name"
+msgstr "Reservierung :name"
+ 
+msgctxt "bike.php:show.title_edit"
+msgid "Reservierung :name bearbeiten"
+msgstr "Reservierung :name bearbeiten"
+ 
+msgctxt "bike.php:show.children"
+msgid "Kindersitz/-sicherung"
+msgstr "Kindersitz/-sicherung"
+ 
+msgctxt "bike.php:show.cargo_weight"
+msgid "max. Zuladung"
+msgstr "max. Zuladung"
+ 
+msgctxt "bike.php:show.cargo_width"
+msgid "Breite der Ladefläche"
+msgstr "Breite der Ladefläche"
+ 
+msgctxt "bike.php:show.cargo_length"
+msgid "Länge der Ladefläche"
+msgstr "Länge der Ladefläche"
+ 
+msgctxt "bike.php:show.misc_equipment"
+msgid "Sonstige Merkmale"
+msgstr "Sonstige Merkmale"
+ 
+msgctxt "bike.php:show.rental_place_description"
+msgid "Abholort|Abholorte"
+msgstr "Abholort|Abholorte"
+ 
+msgctxt "bike.php:show.description"
+msgid "Beschreibung und Einschränkungen"
+msgstr "Beschreibung und Einschränkungen"
+ 
+msgctxt "bike.php:show.calendar_hint"
+msgid "Wenn du in den Kalender klickst, wird ein Zeitraum von zwei Stunden markiert. Diesen kannst du mit der Maus nach unten ziehen oder am Smartphone mit kurzem längeren Drücken nach unten verlängern. Du kannst dabei auch einen Zeitraum über mehrere Tage auswählen, wenn dieses Transportrad über Nacht verliehen wird.<br><br>Alternativ zur Eingabe des Abhol- und Rückgabezeitpunkts kannst du deinen gewünschten Zeitraum unten direkt im Kalender eintragen."
+msgstr "Wenn du in den Kalender klickst, wird ein Zeitraum von zwei Stunden markiert. Diesen kannst du mit der Maus nach unten ziehen oder am Smartphone mit kurzem längeren Drücken nach unten verlängern. Du kannst dabei auch einen Zeitraum über mehrere Tage auswählen, wenn dieses Transportrad über Nacht verliehen wird.<br><br>Alternativ zur Eingabe des Abhol- und Rückgabezeitpunkts kannst du deinen gewünschten Zeitraum unten direkt im Kalender eintragen."
+ 
+msgctxt "bike.php:show.overlay_text"
+msgid "Du kannst hier in den Kalender klicken/drücken, um einen Zeitraum zu markieren. Diesen Zeitraum kannst du dann verschieben und/oder am unteren Rand verlängern oder verkürzen."
+msgstr "Du kannst hier in den Kalender klicken/drücken, um einen Zeitraum zu markieren. Diesen Zeitraum kannst du dann verschieben und/oder am unteren Rand verlängern oder verkürzen."
+ 
+msgctxt "bike.php:show.reserve_from"
+msgid "Abholung"
+msgstr "Abholung"
+ 
+msgctxt "bike.php:show.reserve_to"
+msgid "Rückgabe"
+msgstr "Rückgabe"
+ 
+msgctxt "bike.php:show.time"
+msgid "Uhrzeit"
+msgstr "Uhrzeit"
+ 
+msgctxt "bike.php:show.date"
+msgid "Datum"
+msgstr "Datum"
+ 
+msgctxt "bike.php:show.purpose_hint"
+msgid "Optionale Eingabe des Einsatzzwecks (wird im Kalender ohne Name etc. veröffentlicht)"
+msgstr "Optionale Eingabe des Einsatzzwecks (wird im Kalender ohne Name etc. veröffentlicht)"
+ 
+msgctxt "bike.php:show.legend.INQUIRY"
+msgid "In diesem Zeitraum kannst du die Abholung und Rückgabe des Rades anfragen, aber die Reservierung ist erst nach Bestätigung durch die/den Verleiher/in gültig"
+msgstr "In diesem Zeitraum kannst du die Abholung und Rückgabe des Rades anfragen, aber die Reservierung ist erst nach Bestätigung durch die/den Verleiher/in gültig"
+ 
+msgctxt "bike.php:show.legend.INSTANT_RESERVATION"
+msgid "In diesem Zeitraum kannst du das Rad fix buchen (abholen oder zurückgeben)"
+msgstr "In diesem Zeitraum kannst du das Rad fix buchen (abholen oder zurückgeben)"
+ 
+msgctxt "bike.php:show.legend.reservation"
+msgid "In diesem Zeitraum ist das Rad bereits reserviert"
+msgstr "In diesem Zeitraum ist das Rad bereits reserviert"
+ 
+msgctxt "bike.php:show.legend.selection"
+msgid "Deine Auswahl"
+msgstr "Deine Auswahl"
+ 
+msgctxt "bike.php:reservations.title"
+msgid "Reservierungen für :name"
+msgstr "Reservierungen für :name"
+ 
+msgctxt "bike.php:reservations.calendar_hint"
+msgid "Klicke auf Reservierungen/Anfragen um auf die Detailansicht zu kommen"
+msgstr "Klicke auf Reservierungen/Anfragen um auf die Detailansicht zu kommen"
+ 
+msgctxt "bike.php:reservations.legend.INQUIRY"
+msgid "In diesem Zeitraum ist die Abholung und Rückgabe des Rades anfragbar, die Reservierung ist aber erst nach Bestätigung durch die/den Verleiher/in gültig"
+msgstr "In diesem Zeitraum ist die Abholung und Rückgabe des Rades anfragbar, die Reservierung ist aber erst nach Bestätigung durch die/den Verleiher/in gültig"
+ 
+msgctxt "bike.php:reservations.legend.INSTANT_RESERVATION"
+msgid "In diesem Zeitraum kann das Rad fix gebucht (abgeholt oder zurückgegeben) werden"
+msgstr "In diesem Zeitraum kann das Rad fix gebucht (abgeholt oder zurückgegeben) werden"
+ 
+msgctxt "bike.php:reservations.legend.reserved"
+msgid "Fixe Reservierung"
+msgstr "Fixe Reservierung"
+ 
+msgctxt "bike.php:reservations.legend.pending"
+msgid "Noch unbestätigte Reservierung"
+msgstr "Noch unbestätigte Reservierung"
+ 
+msgctxt "bike.php:reservation.title_confirmed"
+msgid "Reservierung für :name"
+msgstr "Reservierung für :name"
+ 
+msgctxt "bike.php:reservation.title_unconfirmed"
+msgid "Reservierungs-Anfrage für :name"
+msgstr "Reservierungs-Anfrage für :name"
+ 
+msgctxt "bike.php:reservation.title_cancel"
+msgid "Reservierung für :name stornieren"
+msgstr "Reservierung für :name stornieren"
+ 
+msgctxt "bike.php:reservation.header_from"
+msgid "Abholung"
+msgstr "Abholung"
+ 
+msgctxt "bike.php:reservation.header_to"
+msgid "Rückgabe"
+msgstr "Rückgabe"
+ 
+msgctxt "bike.php:reservation.btn_contact"
+msgid "Kontakt aufnehmen"
+msgstr "Kontakt aufnehmen"
+ 
+msgctxt "bike.php:reservation.btn_cancel"
+msgid "Stornieren"
+msgstr "Stornieren"
+ 
+msgctxt "bike.php:reservation.btn_confirm"
+msgid "Bestätigen"
+msgstr "Bestätigen"
+ 
+msgctxt "bike.php:reservation.btn_deny"
+msgid "Ablehnen"
+msgstr "Ablehnen"
+ 
+msgctxt "bike.php:reservation.purpose"
+msgid "Angegebener Verwendungszweck"
+msgstr "Angegebener Verwendungszweck"
+ 
+msgctxt "bike.php:reservation.purpose_null"
+msgid "Keine Angabe"
+msgstr "Keine Angabe"
+ 
+msgctxt "bike.php:reservation.hint_old"
+msgid "Kontakt aufnehmen"
+msgstr "Kontakt aufnehmen"
+ 
+msgctxt "bike.php:reservation.hint_confirmed"
+msgid "Kontakt aufnehmen oder Reservierung stornieren"
+msgstr "Kontakt aufnehmen oder Reservierung stornieren"
+ 
+msgctxt "bike.php:reservation.hint_unconfirmed"
+msgid "Kontakt aufnehmen, Reservierung bestätigen oder ablehnen"
+msgstr "Kontakt aufnehmen, Reservierung bestätigen oder ablehnen"
+ 
+msgctxt "bike.php:reservation.user_name"
+msgid "Ausleiher"
+msgstr "Ausleiher"
+ 
+msgctxt "bike.php:reservation.place_not_found"
+msgid "Standort konnte nicht bestimmt werden"
+msgstr "Standort konnte nicht bestimmt werden"
+ 
+msgctxt "bike.php:reservation.user_deleted"
+msgid "User was deleted"
+msgstr "User was deleted"
+ 
+msgctxt "bike.php:images.title"
+msgid "Bilder"
+msgstr "Bilder"
+ 
+msgctxt "bike.php:images.hint"
+msgid "Bitte wähle ein Bild aus und klicke auf "Hochladen". Du kannst mehrere Bilder nacheinander hochladen."
+msgstr "Bitte wähle ein Bild aus und klicke auf "Hochladen". Du kannst mehrere Bilder nacheinander hochladen."
+ 
+msgctxt "bike.php:images.file_text"
+msgid "Bild auswählen"
+msgstr "Bild auswählen"
+ 
+msgctxt "bike.php:rentee_limitation.label_form"
+msgid "Beschränkung der Ausleihe in dieser Zeit ausschließlich auf Nutzer/innen mit folgender E-Mail-Adresse: (Eine E-Mail-Adresse pro Zeile)"
+msgstr "Beschränkung der Ausleihe in dieser Zeit ausschließlich auf Nutzer/innen mit folgender E-Mail-Adresse: (Eine E-Mail-Adresse pro Zeile)"
+ 
+msgctxt "bike.php:rentee_limitation.label_show"
+msgid "Beschränkung der Ausleihe in dieser Zeit ausschließlich auf Nutzer/innen mit folgender E-Mail-Adresse:"
+msgstr "Beschränkung der Ausleihe in dieser Zeit ausschließlich auf Nutzer/innen mit folgender E-Mail-Adresse:"
+ 
+msgctxt "chat.php:title.bike"
+msgid "Chat zwischen User ":username" und Transportrad ":bikename""
+msgstr "Chat zwischen User ":username" und Transportrad ":bikename""
+ 
+msgctxt "chat.php:show.message"
+msgid "Nachricht"
+msgstr "Nachricht"
+ 
+msgctxt "chat.php:show.me"
+msgid "Ich"
+msgstr "Ich"
+ 
+msgctxt "chat.php:show.renter"
+msgid "Verleiher"
+msgstr "Verleiher"
+ 
+msgctxt "chat.php:show.rentee"
+msgid "Ausleiher"
+msgstr "Ausleiher"
+ 
+msgctxt "chat.php:show.new"
+msgid "neue Nachricht"
+msgstr "neue Nachricht"
+ 
+msgctxt "chat.php:index.title"
+msgid "Chat Übersicht"
+msgstr "Chat Übersicht"
+ 
+msgctxt "chat.php:index.empty_text"
+msgid "Du kannst hier Kontakt mit AusleiherInnen bzw. VerleiherInnen aufnehmen, nachdem ein Lastenrad reserviert wurde."
+msgstr "Du kannst hier Kontakt mit AusleiherInnen bzw. VerleiherInnen aufnehmen, nachdem ein Lastenrad reserviert wurde."
+ 
+msgctxt "chat.php:index.empty_chat_text"
+msgid "In diesem Chat gibt es noch keine Nachrichten."
+msgstr "In diesem Chat gibt es noch keine Nachrichten."
+ 
+msgctxt "chat.php:chats.unread"
+msgid "Chat(s) mit ungelesenen Nachrichten"
+msgstr "Chat(s) mit ungelesenen Nachrichten"
+ 
+msgctxt "chat.php:chats.read"
+msgid "Keine Chats mit ungelesenen Nachrichten"
+msgstr "Keine Chats mit ungelesenen Nachrichten"
+ 
+msgctxt "chat.php:messages.unread"
+msgid ":count ungelesene Nachricht(en)"
+msgstr ":count ungelesene Nachricht(en)"
+ 
+msgctxt "chat.php:messages.read"
+msgid "Keine ungelesenen Nachrichten"
+msgstr "Keine ungelesenen Nachrichten"
+ 
+msgctxt "email.php:footer"
+msgid "Das Projekt "KlimaEntLaster go Smart Cities" wird vom österreichischen Klima- und Energiefonds gefördert"
+msgstr "Das Projekt "KlimaEntLaster go Smart Cities" wird vom österreichischen Klima- und Energiefonds gefördert"
+ 
+msgctxt "email.php:survey.subject"
+msgid "Danke für Deine Ausleihe"
+msgstr "Danke für Deine Ausleihe"
+ 
+msgctxt "email.php:survey.text_top"
+msgid "**Danke, dass du ein Transportrad von KlimaEntLaster genutzt hast!**<br><br>Wir hoffen du hattest eine gute Fahrt und viel Freude mit dem KlimaEntLaster-Transportrad. Um unser Angebot zu verbessern, möchten wir dir ein paar Fragen stellen."
+msgstr "**Danke, dass du ein Transportrad von KlimaEntLaster genutzt hast!**<br><br>Wir hoffen du hattest eine gute Fahrt und viel Freude mit dem KlimaEntLaster-Transportrad. Um unser Angebot zu verbessern, möchten wir dir ein paar Fragen stellen."
+ 
+msgctxt "email.php:survey.text_bottom"
+msgid "Die Umfrage wird rund 2 Minuten in Anspruch nehmen. Deine Daten werden **ausschließlich für Forschungs- und Analysezwecke** verwendet und **keinesfalls an Dritte weitergegeben**. Weitere Informationen entnimmst du bitte der **Datenschutzerklärung**.<br><br>Es wird **empfohlen** den Fragebogen auf einem **PC oder Tablet** auszufüllen, da er für diese Geräte optimiert wurde.<br><br>**Bei Fragen** zur Umfrage schreibst du bitte ein Mail an <info@klimaentlaster.at><br><br> **Vielen Dank für deine Unterstützung!**<br>Das KlimaEntLaster Projektteam"
+msgstr "Die Umfrage wird rund 2 Minuten in Anspruch nehmen. Deine Daten werden **ausschließlich für Forschungs- und Analysezwecke** verwendet und **keinesfalls an Dritte weitergegeben**. Weitere Informationen entnimmst du bitte der **Datenschutzerklärung**.<br><br>Es wird **empfohlen** den Fragebogen auf einem **PC oder Tablet** auszufüllen, da er für diese Geräte optimiert wurde.<br><br>**Bei Fragen** zur Umfrage schreibst du bitte ein Mail an <info@klimaentlaster.at><br><br> **Vielen Dank für deine Unterstützung!**<br>Das KlimaEntLaster Projektteam"
+ 
+msgctxt "email.php:survey.button"
+msgid "Zur Umfrage"
+msgstr "Zur Umfrage"
+ 
+msgctxt "email.php:password_reset.subject"
+msgid "Passwort-Reset Benachrichtigung"
+msgstr "Passwort-Reset Benachrichtigung"
+ 
+msgctxt "email.php:password_reset.line_1"
+msgid "Du erhälst diese E-Mail weil wir eine Passwort-Reset Anfrage für deinen Account bekommen haben."
+msgstr "Du erhälst diese E-Mail weil wir eine Passwort-Reset Anfrage für deinen Account bekommen haben."
+ 
+msgctxt "email.php:password_reset.line_2"
+msgid "Dieser Link ist nach :count Minuten ungültig."
+msgstr "Dieser Link ist nach :count Minuten ungültig."
+ 
+msgctxt "email.php:password_reset.line_3"
+msgid "Falls du keinen Passwort-Reset angefragt hast, kannst du diese E-Mail ignorieren."
+msgstr "Falls du keinen Passwort-Reset angefragt hast, kannst du diese E-Mail ignorieren."
+ 
+msgctxt "email.php:password_reset.button"
+msgid "Passwort zurücksetzen"
+msgstr "Passwort zurücksetzen"
+ 
+msgctxt "email.php:rental_period_reminder.text"
+msgid "Die Verleihzeiten für das Lastenrad :name laufen innerhalb der nächsten 30 Tage ab. Bitte trage neue Verleihzeiten ein."
+msgstr "Die Verleihzeiten für das Lastenrad :name laufen innerhalb der nächsten 30 Tage ab. Bitte trage neue Verleihzeiten ein."
+ 
+msgctxt "email.php:rental_period_reminder.button"
+msgid "Zu den Verleihzeiten"
+msgstr "Zu den Verleihzeiten"
+ 
+msgctxt "email.php:rental_period_reminder.subject"
+msgid "Ablauf Verleihzeiten"
+msgstr "Ablauf Verleihzeiten"
+ 
+msgctxt "email.php:rental_place.new_reservation.inquiry.text.new"
+msgid "Es gibt eine neue Anfrage des Transportrads **:b_name** für den Zeitraum **:timeframe**.\n\n **Ausleiher/in:**\n\n:u_name\n\n:u_email:u_phone"
+msgstr "Es gibt eine neue Anfrage des Transportrads **:b_name** für den Zeitraum **:timeframe**.\n\n **Ausleiher/in:**\n\n:u_name\n\n:u_email:u_phone"
+ 
+msgctxt "email.php:rental_place.new_reservation.inquiry.text.update"
+msgid "Es gibt eine bearbeitete Anfrage des Transportrads **:b_name** für den Zeitraum **:timeframe**.\n\n **Ausleiher/in:**\n\n:u_name\n\n:u_email:u_phone"
+msgstr "Es gibt eine bearbeitete Anfrage des Transportrads **:b_name** für den Zeitraum **:timeframe**.\n\n **Ausleiher/in:**\n\n:u_name\n\n:u_email:u_phone"
+ 
+msgctxt "email.php:rental_place.new_reservation.inquiry.subject.new"
+msgid "Neue Anfrage für :name"
+msgstr "Neue Anfrage für :name"
+ 
+msgctxt "email.php:rental_place.new_reservation.inquiry.subject.update"
+msgid "Bearbeitete Anfrage für :name"
+msgstr "Bearbeitete Anfrage für :name"
+ 
+msgctxt "email.php:rental_place.new_reservation.inquiry.button"
+msgid "Zur Anfrage"
+msgstr "Zur Anfrage"
+ 
+msgctxt "email.php:rental_place.new_reservation.instant.text.new"
+msgid "Es gibt eine neue Reservierung des Transportrads **:b_name** für den Zeitraum **:timeframe**.\n\n**Ausleiher/in:**\n\n:u_name\n\n:u_email:u_phone"
+msgstr "Es gibt eine neue Reservierung des Transportrads **:b_name** für den Zeitraum **:timeframe**.\n\n**Ausleiher/in:**\n\n:u_name\n\n:u_email:u_phone"
+ 
+msgctxt "email.php:rental_place.new_reservation.instant.text.update"
+msgid "Es gibt eine bearbeitete Reservierung des Transportrads **:b_name** für den Zeitraum **:timeframe**.\n\n**Ausleiher/in:**\n\n:u_name\n\n:u_email:u_phone"
+msgstr "Es gibt eine bearbeitete Reservierung des Transportrads **:b_name** für den Zeitraum **:timeframe**.\n\n**Ausleiher/in:**\n\n:u_name\n\n:u_email:u_phone"
+ 
+msgctxt "email.php:rental_place.new_reservation.instant.subject.new"
+msgid "Neue Reservierung für :name"
+msgstr "Neue Reservierung für :name"
+ 
+msgctxt "email.php:rental_place.new_reservation.instant.subject.update"
+msgid "Bearbeitete Reservierung für :name"
+msgstr "Bearbeitete Reservierung für :name"
+ 
+msgctxt "email.php:rental_place.new_reservation.instant.button"
+msgid "Zur Reservierung"
+msgstr "Zur Reservierung"
+ 
+msgctxt "email.php:rental_place.cancelled_reservation.confirmed.text"
+msgid "Die Reservierung für **:b_name** im Zeitraum **:timeframe** wurde durch **:u_name** storniert."
+msgstr "Die Reservierung für **:b_name** im Zeitraum **:timeframe** wurde durch **:u_name** storniert."
+ 
+msgctxt "email.php:rental_place.cancelled_reservation.confirmed.subject"
+msgid "Stornierte Reservierung für :name"
+msgstr "Stornierte Reservierung für :name"
+ 
+msgctxt "email.php:rental_place.cancelled_reservation.unconfirmed.text"
+msgid "Die Anfrage für **:b_name** im Zeitraum **:timeframe** wurde durch **:u_name** storniert."
+msgstr "Die Anfrage für **:b_name** im Zeitraum **:timeframe** wurde durch **:u_name** storniert."
+ 
+msgctxt "email.php:rental_place.cancelled_reservation.unconfirmed.subject"
+msgid "Stornierte Anfrage für :name"
+msgstr "Stornierte Anfrage für :name"
+ 
+msgctxt "email.php:bike.cancelled_reservation.info"
+msgid "Du erhältst diese E-Mail, da das Lastenrad nicht mehr verfügbar ist."
+msgstr "Du erhältst diese E-Mail, da das Lastenrad nicht mehr verfügbar ist."
+ 
+msgctxt "email.php:bike.cancelled_reservation.confirmed.text"
+msgid "Die Reservierung für **:b_name** im Zeitraum **:timeframe** wurde durch **:u_name** storniert."
+msgstr "Die Reservierung für **:b_name** im Zeitraum **:timeframe** wurde durch **:u_name** storniert."
+ 
+msgctxt "email.php:bike.cancelled_reservation.confirmed.subject"
+msgid "Stornierte Reservierung für :name"
+msgstr "Stornierte Reservierung für :name"
+ 
+msgctxt "email.php:bike.cancelled_reservation.unconfirmed.text"
+msgid "Die Anfrage für **:b_name** im Zeitraum **:timeframe** wurde durch **:u_name** storniert."
+msgstr "Die Anfrage für **:b_name** im Zeitraum **:timeframe** wurde durch **:u_name** storniert."
+ 
+msgctxt "email.php:bike.cancelled_reservation.unconfirmed.subject"
+msgid "Stornierte Anfrage für :name"
+msgstr "Stornierte Anfrage für :name"
+ 
+msgctxt "email.php:user.new_reservation.text.new"
+msgid "Danke für deine Reservierung des Transportrads **:b_name** Anfrage für Zeitraum **:timeframe**.\n\n Wenn es noch Unklarheiten zur Abholung oder Rückgabe gibt, setze dich bitte mit der/dem Verleiher/in in Verbindung. [Kontakt aufnehmen](:url_chat)"
+msgstr "Danke für deine Reservierung des Transportrads **:b_name** Anfrage für Zeitraum **:timeframe**.\n\n Wenn es noch Unklarheiten zur Abholung oder Rückgabe gibt, setze dich bitte mit der/dem Verleiher/in in Verbindung. [Kontakt aufnehmen](:url_chat)"
+ 
+msgctxt "email.php:user.new_reservation.text.update"
+msgid "Danke für deine bearbeitete Reservierung des Transportrads **:b_name** Anfrage für Zeitraum **:timeframe**.\n\n Wenn es noch Unklarheiten zur Abholung oder Rückgabe gibt, setze dich bitte mit der/dem Verleiher/in in Verbindung. [Kontakt aufnehmen](:url_chat)"
+msgstr "Danke für deine bearbeitete Reservierung des Transportrads **:b_name** Anfrage für Zeitraum **:timeframe**.\n\n Wenn es noch Unklarheiten zur Abholung oder Rückgabe gibt, setze dich bitte mit der/dem Verleiher/in in Verbindung. [Kontakt aufnehmen](:url_chat)"
+ 
+msgctxt "email.php:user.new_reservation.subject.new"
+msgid "Deine Lastenrad-Reservierung"
+msgstr "Deine Lastenrad-Reservierung"
+ 
+msgctxt "email.php:user.new_reservation.subject.update"
+msgid "Deine bearbeitete Lastenrad-Reservierung"
+msgstr "Deine bearbeitete Lastenrad-Reservierung"
+ 
+msgctxt "email.php:user.new_reservation.button"
+msgid "Zur Reservierung"
+msgstr "Zur Reservierung"
+ 
+msgctxt "email.php:user.cancelled_reservation.confirmed.text"
+msgid "Deine Reservierung für **:b_name** im Zeitraum **:timeframe** wurde storniert."
+msgstr "Deine Reservierung für **:b_name** im Zeitraum **:timeframe** wurde storniert."
+ 
+msgctxt "email.php:user.cancelled_reservation.confirmed.subject"
+msgid "Stornierte Reservierung für :name"
+msgstr "Stornierte Reservierung für :name"
+ 
+msgctxt "email.php:user.cancelled_reservation.unconfirmed.text"
+msgid "Die Reservierung des **:b_name** im Zeitraum **:timeframe** ist **leider nicht möglich.**"
+msgstr "Die Reservierung des **:b_name** im Zeitraum **:timeframe** ist **leider nicht möglich.**"
+ 
+msgctxt "email.php:user.cancelled_reservation.unconfirmed.subject"
+msgid "Ablehnung der Anfrage für :name"
+msgstr "Ablehnung der Anfrage für :name"
+ 
+msgctxt "email.php:user.confirmed_reservation.text"
+msgid "Deine Anfrage für **:b_name** im Zeitraum **:timeframe** wurde bestätigt. Wenn es noch Unklarheiten zur Abholung oder Rückgabe gibt, setze dich bitte mit der/dem Verleiher/in in Verbindung. [Kontakt aufnehmen](:url_chat)"
+msgstr "Deine Anfrage für **:b_name** im Zeitraum **:timeframe** wurde bestätigt. Wenn es noch Unklarheiten zur Abholung oder Rückgabe gibt, setze dich bitte mit der/dem Verleiher/in in Verbindung. [Kontakt aufnehmen](:url_chat)"
+ 
+msgctxt "email.php:user.confirmed_reservation.subject"
+msgid "Reservierungs-Bestätigung für :name"
+msgstr "Reservierungs-Bestätigung für :name"
+ 
+msgctxt "email.php:user.confirmed_reservation.button"
+msgid "Zur Reservierung"
+msgstr "Zur Reservierung"
+ 
+msgctxt "email.php:notification.hello"
+msgid "Hallo!"
+msgstr "Hallo!"
+ 
+msgctxt "email.php:notification.whoops"
+msgid "Auweh!"
+msgstr "Auweh!"
+ 
+msgctxt "email.php:notification.salutation"
+msgid "Beste Grüße,"
+msgstr "Beste Grüße,"
+ 
+msgctxt "email.php:notification.action_text"
+msgid "Falls du Probleme damit hast, den ":actionText" Button zu klicken, kopierst Du bitte die folgende URL in deinen Web Browser: [:actionURL](:actionURL)"
+msgstr "Falls du Probleme damit hast, den ":actionText" Button zu klicken, kopierst Du bitte die folgende URL in deinen Web Browser: [:actionURL](:actionURL)"
+ 
+msgctxt "email.php:chat.text"
+msgid ":name hat eine neue Nachricht geschrieben:\n\n":message""
+msgstr ":name hat eine neue Nachricht geschrieben:\n\n":message""
+ 
+msgctxt "email.php:chat.subject"
+msgid "Neue Nachricht im :chatTitle"
+msgstr "Neue Nachricht im :chatTitle"
+ 
+msgctxt "email.php:chat.button"
+msgid "Zum Chat"
+msgstr "Zum Chat"
+ 
+msgctxt "email.php:newsletter_confirmation.text"
+msgid "Bitte bestätige deine Anmeldung zum Newsletter."
+msgstr "Bitte bestätige deine Anmeldung zum Newsletter."
+ 
+msgctxt "email.php:newsletter_confirmation.subject"
+msgid "Anmeldung zum Newsletter bestätigen"
+msgstr "Anmeldung zum Newsletter bestätigen"
+ 
+msgctxt "email.php:newsletter_confirmation.button"
+msgid "Anmeldung bestätigen"
+msgstr "Anmeldung bestätigen"
+ 
+msgctxt "email.php:all_rights_reserved"
+msgid "Alle Rechte vorbehalten"
+msgstr "Alle Rechte vorbehalten"
+ 
+msgctxt "embed.php:index.empty_text"
+msgid "Keine Einbindungen vorhanden"
+msgstr "Keine Einbindungen vorhanden"
+ 
+msgctxt "embed.php:index.title"
+msgid "Meine Einbindungen"
+msgstr "Meine Einbindungen"
+ 
+msgctxt "embed.php:index.btn_show"
+msgid "Einbinden"
+msgstr "Einbinden"
+ 
+msgctxt "embed.php:index.btn_new"
+msgid "Neue Einbindung anlegen"
+msgstr "Neue Einbindung anlegen"
+ 
+msgctxt "embed.php:form.title"
+msgid "Allgemeine Daten"
+msgstr "Allgemeine Daten"
+ 
+msgctxt "embed.php:form.tabs_header_edit"
+msgid "Einbindung Bearbeiten"
+msgstr "Einbindung Bearbeiten"
+ 
+msgctxt "embed.php:form.tabs_header_new"
+msgid "Neue Einbindung"
+msgstr "Neue Einbindung"
+ 
+msgctxt "embed.php:form.defaults"
+msgid "Startwerte"
+msgstr "Startwerte"
+ 
+msgctxt "embed.php:form.search.header"
+msgid "Suche"
+msgstr "Suche"
+ 
+msgctxt "embed.php:form.search.location"
+msgid "Ort"
+msgstr "Ort"
+ 
+msgctxt "embed.php:edit_bikes.title"
+msgid "Räder"
+msgstr "Räder"
+ 
+msgctxt "embed.php:edit_bikes.col_cb"
+msgid "Ausgewählt"
+msgstr "Ausgewählt"
+ 
+msgctxt "embed.php:edit_bikes.hint_all"
+msgid "Du kannst hier die Räder, die bei der Einbindung verfügbar sein sollen, auswählen. Wenn keine Räder ausgewählt werden, sind automatisch alle erlaubt."
+msgstr "Du kannst hier die Räder, die bei der Einbindung verfügbar sein sollen, auswählen. Wenn keine Räder ausgewählt werden, sind automatisch alle erlaubt."
+ 
+msgctxt "embed.php:edit_bikes.btn_all"
+msgid "Alle Räder zulassen"
+msgstr "Alle Räder zulassen"
+ 
+msgctxt "embed.php:edit_styling.title"
+msgid "Styling"
+msgstr "Styling"
+ 
+msgctxt "embed.php:edit_styling.tab_simple"
+msgid "Einfach"
+msgstr "Einfach"
+ 
+msgctxt "embed.php:edit_styling.tab_advanced"
+msgid "Erweitert"
+msgstr "Erweitert"
+ 
+msgctxt "embed.php:edit_styling.color_body"
+msgid "Text"
+msgstr "Text"
+ 
+msgctxt "embed.php:edit_styling.color_primary"
+msgid "Primär"
+msgstr "Primär"
+ 
+msgctxt "embed.php:edit_styling.colors"
+msgid "Farben"
+msgstr "Farben"
+ 
+msgctxt "embed.php:edit_styling.font"
+msgid "Schrift"
+msgstr "Schrift"
+ 
+msgctxt "embed.php:edit_styling.font_size"
+msgid "Schriftgröße"
+msgstr "Schriftgröße"
+ 
+msgctxt "embed.php:edit_styling.font_family"
+msgid "Schrfitart"
+msgstr "Schrfitart"
+ 
+msgctxt "embed.php:edit_styling.saved_success"
+msgid "Erfolgreich gespeichert. Es kann bis zu 5 Minuten dauern, bis das Styling verfügbar ist."
+msgstr "Erfolgreich gespeichert. Es kann bis zu 5 Minuten dauern, bis das Styling verfügbar ist."
+ 
+msgctxt "embed.php:edit_styling.advanced_hint"
+msgid "Hier kannst du selbst Styling definieren. Dieses wird dann alternativ zum einfachen Styling verwendet. Du kannst hier die Variablen von Bootstrap 4.3.1 direkt mit SCSS verändern."
+msgstr "Hier kannst du selbst Styling definieren. Dieses wird dann alternativ zum einfachen Styling verwendet. Du kannst hier die Variablen von Bootstrap 4.3.1 direkt mit SCSS verändern."
+ 
+msgctxt "embed.php:edit_styling.advanced_example_used"
+msgid "Als Beispiel wird hier das einfache Styling bei den Variablen verwendet."
+msgstr "Als Beispiel wird hier das einfache Styling bei den Variablen verwendet."
+ 
+msgctxt "embed.php:edit_styling.advanced_links"
+msgid "Dokumentation:"
+msgstr "Dokumentation:"
+ 
+msgctxt "embed.php:edit_styling.advanced_link_bootstrap"
+msgid "Bootstrap"
+msgstr "Bootstrap"
+ 
+msgctxt "embed.php:edit_styling.advanced_link_sass"
+msgid "Sass"
+msgstr "Sass"
+ 
+msgctxt "embed.php:edit_styling.advanced_empty"
+msgid "(leer)"
+msgstr "(leer)"
+ 
+msgctxt "embed.php:edit_styling.advanced_styling"
+msgid "Erweitertes Styling und Variablen"
+msgstr "Erweitertes Styling und Variablen"
+ 
+msgctxt "embed.php:edit_styling.advanced_variables"
+msgid "Variablen: hier kannst du Variablen definieren und bestehende Variablen überschreiben."
+msgstr "Variablen: hier kannst du Variablen definieren und bestehende Variablen überschreiben."
+ 
+msgctxt "embed.php:edit_styling.advanced_text"
+msgid "Styling: wird zuletzt eingebunden"
+msgstr "Styling: wird zuletzt eingebunden"
+ 
+msgctxt "embed.php:edit_styling.advanced_error_failed"
+msgid "Fehler beim Speichern des Stylings."
+msgstr "Fehler beim Speichern des Stylings."
+ 
+msgctxt "embed.php:show.title"
+msgid "Einbinden"
+msgstr "Einbinden"
+ 
+msgctxt "embed.php:show.btn_index"
+msgid "Zur Übersicht"
+msgstr "Zur Übersicht"
+ 
+msgctxt "embed.php:show.hint"
+msgid "Der Code für eine Einbindung besteht aus mehreren Teilen: Javascript, CSS-Styling und Widget-Container"
+msgstr "Der Code für eine Einbindung besteht aus mehreren Teilen: Javascript, CSS-Styling und Widget-Container"
+ 
+msgctxt "embed.php:show.widget"
+msgid "Widget"
+msgstr "Widget"
+ 
+msgctxt "embed.php:show.js_title"
+msgid "Javascript"
+msgstr "Javascript"
+ 
+msgctxt "embed.php:show.js_hint"
+msgid "Script Tag mit der URL zum Javascript der Einbindung. Die Optionalen URL-Parameter "id" und "widget" werden verwendet, um die richtige Einbindung bzw. das richtige Widget zu laden."
+msgstr "Script Tag mit der URL zum Javascript der Einbindung. Die Optionalen URL-Parameter "id" und "widget" werden verwendet, um die richtige Einbindung bzw. das richtige Widget zu laden."
+ 
+msgctxt "embed.php:show.css_title"
+msgid "Styling"
+msgstr "Styling"
+ 
+msgctxt "embed.php:show.css_hint"
+msgid "Default-Styling für die Einbindung. Das sollte im Head deiner Seite eingefügt werden."
+msgstr "Default-Styling für die Einbindung. Das sollte im Head deiner Seite eingefügt werden."
+ 
+msgctxt "embed.php:show.div_title"
+msgid "Widget-Container"
+msgstr "Widget-Container"
+ 
+msgctxt "embed.php:show.div_hint"
+msgid "Das Widget wird automatisch in den folgenden Widget-Container geladen. Es ist hierbei wichtig, dass die ID gleich bleibt, da das Widget sonst nicht gerendert werden kann."
+msgstr "Das Widget wird automatisch in den folgenden Widget-Container geladen. Es ist hierbei wichtig, dass die ID gleich bleibt, da das Widget sonst nicht gerendert werden kann."
+ 
+msgctxt "embed.php:show.options.search"
+msgid "Suche"
+msgstr "Suche"
+ 
+msgctxt "embed.php:show.options.browse"
+msgid "Karte"
+msgstr "Karte"
+ 
+msgctxt "embed.php:destroy_ask.header"
+msgid "Einbindung ":name" löschen?"
+msgstr "Einbindung ":name" löschen?"
+ 
+msgctxt "general.php:street_name"
+msgid "Straße"
+msgstr "Straße"
+ 
+msgctxt "general.php:required_hint"
+msgid "*Pflichtangabe"
+msgstr "*Pflichtangabe"
+ 
+msgctxt "general.php:house_number"
+msgid "Hausnummer"
+msgstr "Hausnummer"
+ 
+msgctxt "general.php:postal_code"
+msgid "PLZ"
+msgstr "PLZ"
+ 
+msgctxt "general.php:city"
+msgid "Ort"
+msgstr "Ort"
+ 
+msgctxt "general.php:day"
+msgid "Tag|Tage"
+msgstr "Tag|Tage"
+ 
+msgctxt "general.php:apply"
+msgid "Anwenden"
+msgstr "Anwenden"
+ 
+msgctxt "general.php:copy_clipboard"
+msgid "Kopieren"
+msgstr "Kopieren"
+ 
+msgctxt "general.php:minute"
+msgid "Minute|Minuten"
+msgstr "Minute|Minuten"
+ 
+msgctxt "general.php:hour"
+msgid "Stunde|Stunden"
+msgstr "Stunde|Stunden"
+ 
+msgctxt "general.php:name"
+msgid "Name"
+msgstr "Name"
+ 
+msgctxt "general.php:week"
+msgid "Woche|Wochen"
+msgstr "Woche|Wochen"
+ 
+msgctxt "general.php:add"
+msgid "Hinzufügen"
+msgstr "Hinzufügen"
+ 
+msgctxt "general.php:remove"
+msgid "Entfernen"
+msgstr "Entfernen"
+ 
+msgctxt "general.php:telephone"
+msgid "Telefonnummer"
+msgstr "Telefonnummer"
+ 
+msgctxt "general.php:email"
+msgid "E-Mail-Adresse"
+msgstr "E-Mail-Adresse"
+ 
+msgctxt "general.php:email_confirmation"
+msgid "Wiederholung E-Mail-Adresse"
+msgstr "Wiederholung E-Mail-Adresse"
+ 
+msgctxt "general.php:password"
+msgid "Passwort"
+msgstr "Passwort"
+ 
+msgctxt "general.php:password_confirmation"
+msgid "Wiederholung Passwort"
+msgstr "Wiederholung Passwort"
+ 
+msgctxt "general.php:save"
+msgid "Speichern"
+msgstr "Speichern"
+ 
+msgctxt "general.php:edit"
+msgid "Bearbeiten"
+msgstr "Bearbeiten"
+ 
+msgctxt "general.php:back"
+msgid "Zurück"
+msgstr "Zurück"
+ 
+msgctxt "general.php:delete"
+msgid "Löschen"
+msgstr "Löschen"
+ 
+msgctxt "general.php:next"
+msgid "Weiter"
+msgstr "Weiter"
+ 
+msgctxt "general.php:browse_files"
+msgid "Datei auswählen"
+msgstr "Datei auswählen"
+ 
+msgctxt "general.php:prev"
+msgid "Vorher"
+msgstr "Vorher"
+ 
+msgctxt "general.php:upload"
+msgid "Hochladen"
+msgstr "Hochladen"
+ 
+msgctxt "general.php:search"
+msgid "Suchen"
+msgstr "Suchen"
+ 
+msgctxt "general.php:reset"
+msgid "Zurücksetzen"
+msgstr "Zurücksetzen"
+ 
+msgctxt "general.php:send"
+msgid "Senden"
+msgstr "Senden"
+ 
+msgctxt "general.php:from"
+msgid "Von"
+msgstr "Von"
+ 
+msgctxt "general.php:to"
+msgid "Bis"
+msgstr "Bis"
+ 
+msgctxt "general.php:yes"
+msgid "Ja"
+msgstr "Ja"
+ 
+msgctxt "general.php:saved_success"
+msgid "Erfolgreich gespeichert"
+msgstr "Erfolgreich gespeichert"
+ 
+msgctxt "general.php:no"
+msgid "Nein"
+msgstr "Nein"
+ 
+msgctxt "general.php:ok"
+msgid "Ok"
+msgstr "Ok"
+ 
+msgctxt "general.php:please_select"
+msgid "Bitte auswählen"
+msgstr "Bitte auswählen"
+ 
+msgctxt "general.php:reserve"
+msgid "Reservieren"
+msgstr "Reservieren"
+ 
+msgctxt "general.php:inquire"
+msgid "Anfragen"
+msgstr "Anfragen"
+ 
+msgctxt "general.php:eur"
+msgid "EUR"
+msgstr "EUR"
+ 
+msgctxt "general.php:weekday.weekday"
+msgid "Wochentag|Wochentage"
+msgstr "Wochentag|Wochentage"
+ 
+msgctxt "general.php:weekday.1"
+msgid "Montag"
+msgstr "Montag"
+ 
+msgctxt "general.php:weekday.2"
+msgid "Dienstag"
+msgstr "Dienstag"
+ 
+msgctxt "general.php:weekday.3"
+msgid "Mittwoch"
+msgstr "Mittwoch"
+ 
+msgctxt "general.php:weekday.4"
+msgid "Donnerstag"
+msgstr "Donnerstag"
+ 
+msgctxt "general.php:weekday.5"
+msgid "Freitag"
+msgstr "Freitag"
+ 
+msgctxt "general.php:weekday.6"
+msgid "Samstag"
+msgstr "Samstag"
+ 
+msgctxt "general.php:weekday.7"
+msgid "Sonntag"
+msgstr "Sonntag"
+ 
+msgctxt "general.php:weekday_short.1"
+msgid "Mo"
+msgstr "Mo"
+ 
+msgctxt "general.php:weekday_short.2"
+msgid "Di"
+msgstr "Di"
+ 
+msgctxt "general.php:weekday_short.3"
+msgid "Mi"
+msgstr "Mi"
+ 
+msgctxt "general.php:weekday_short.4"
+msgid "Do"
+msgstr "Do"
+ 
+msgctxt "general.php:weekday_short.5"
+msgid "Fr"
+msgstr "Fr"
+ 
+msgctxt "general.php:weekday_short.6"
+msgid "Sa"
+msgstr "Sa"
+ 
+msgctxt "general.php:weekday_short.7"
+msgid "So"
+msgstr "So"
+ 
+msgctxt "general.php:whatever"
+msgid "egal"
+msgstr "egal"
+ 
+msgctxt "home.php:info.title"
+msgid "Info & FAQ"
+msgstr "Info & FAQ"
+ 
+msgctxt "home.php:info.faq_what_subtitle"
+msgid "Was ist das Lastenrad?"
+msgstr "Was ist das Lastenrad?"
+ 
+msgctxt "home.php:info.faq_what_text"
+msgid ""Das Lastenrad" war mal nur ein einziges Lastenrad zum kostenlos Ausleihen. Mittlerweile ist "Das Lastenrad" eine Plattform zum einfachen Verleihen und Ausleihen von unzähligen Transporträdern. Sie helfen dir, Sachen, Menschen oder Tiere zu transportieren, die du zu Fuß oder mit einem normalen Fahrrad nicht transportieren kannst, für die du aber kein Auto benötigst. - Also für die allermeisten täglichen und auch nicht alltäglichen Besorgungen und Transporte."
+msgstr ""Das Lastenrad" war mal nur ein einziges Lastenrad zum kostenlos Ausleihen. Mittlerweile ist "Das Lastenrad" eine Plattform zum einfachen Verleihen und Ausleihen von unzähligen Transporträdern. Sie helfen dir, Sachen, Menschen oder Tiere zu transportieren, die du zu Fuß oder mit einem normalen Fahrrad nicht transportieren kannst, für die du aber kein Auto benötigst. - Also für die allermeisten täglichen und auch nicht alltäglichen Besorgungen und Transporte."
+ 
+msgctxt "home.php:info.faq_advantages_subtitle"
+msgid "Was sind die Vorteile"
+msgstr "Was sind die Vorteile"
+ 
+msgctxt "home.php:info.faq_advantages_1"
+msgid "Das Ausleihen von Lastenrädern kostet dich wenig bis nichts."
+msgstr "Das Ausleihen von Lastenrädern kostet dich wenig bis nichts."
+ 
+msgctxt "home.php:info.faq_advantages_2"
+msgid "Du musst keinen Parkplatz suchen und bezahlen."
+msgstr "Du musst keinen Parkplatz suchen und bezahlen."
+ 
+msgctxt "home.php:info.faq_advantages_3"
+msgid "Du bist oft schneller als mit dem Auto, weil du auch Radwege benutzen kannst und nicht im Stau stehst."
+msgstr "Du bist oft schneller als mit dem Auto, weil du auch Radwege benutzen kannst und nicht im Stau stehst."
+ 
+msgctxt "home.php:info.faq_advantages_4"
+msgid "Transporträder sind sehr wendig, aber doch stabil und einfach zu fahren."
+msgstr "Transporträder sind sehr wendig, aber doch stabil und einfach zu fahren."
+ 
+msgctxt "home.php:info.faq_advantages_5"
+msgid "Du tust was gegen den Feinstaub und für die Umwelt."
+msgstr "Du tust was gegen den Feinstaub und für die Umwelt."
+ 
+msgctxt "home.php:info.faq_advantages_6"
+msgid "Du tust was für deine Fitness."
+msgstr "Du tust was für deine Fitness."
+ 
+msgctxt "home.php:info.faq_advantages_7"
+msgid "Mit einem Transportrad setzt du ein Statement"
+msgstr "Mit einem Transportrad setzt du ein Statement"
+ 
+msgctxt "home.php:info.faq_capabilities_subtitle"
+msgid "Was kann ich mit einem Lastenrad alles machen oder transportieren?"
+msgstr "Was kann ich mit einem Lastenrad alles machen oder transportieren?"
+ 
+msgctxt "home.php:info.faq_capabilities_1"
+msgid "Die Box eines größeren Lastenrades (zB Christiania) hat die Grundfläche von vier Standard-Getränkekisten. Genauere Angaben findest du bei jedem Lastenrad."
+msgstr "Die Box eines größeren Lastenrades (zB Christiania) hat die Grundfläche von vier Standard-Getränkekisten. Genauere Angaben findest du bei jedem Lastenrad."
+ 
+msgctxt "home.php:info.faq_capabilities_2"
+msgid " Du kannst übliche Lastenräder mit rund 100 kg beladen, aber sieh bitte vorher beim jeweiligen Lastenrad nach."
+msgstr " Du kannst übliche Lastenräder mit rund 100 kg beladen, aber sieh bitte vorher beim jeweiligen Lastenrad nach."
+ 
+msgctxt "home.php:info.faq_capabilities_3"
+msgid " Du kannst Kinder transportieren. - Schau aber bitte vorher nach, ob das jeweilige Lastenrad mit Sitzbank und Sicherheitsgurten ausgestattet ist."
+msgstr " Du kannst Kinder transportieren. - Schau aber bitte vorher nach, ob das jeweilige Lastenrad mit Sitzbank und Sicherheitsgurten ausgestattet ist."
+ 
+msgctxt "home.php:info.faq_capabilities_4"
+msgid " Du kannst zB eine Waschmaschine oder einen Fernseher transportieren."
+msgstr " Du kannst zB eine Waschmaschine oder einen Fernseher transportieren."
+ 
+msgctxt "home.php:info.faq_capabilities_5"
+msgid " Du kannst große Pflanzen für deine Wohnung besorgen."
+msgstr " Du kannst große Pflanzen für deine Wohnung besorgen."
+ 
+msgctxt "home.php:info.faq_capabilities_6"
+msgid " Du kannst Sachen vom Baumarkt für Renovierungen herbeischaffen."
+msgstr " Du kannst Sachen vom Baumarkt für Renovierungen herbeischaffen."
+ 
+msgctxt "home.php:info.faq_capabilities_7"
+msgid " Du kannst spielend leicht für die ganze Familie oder deinen Freundeskreis den Transport zum Grillplatz eurer Wahl übernehmen."
+msgstr " Du kannst spielend leicht für die ganze Familie oder deinen Freundeskreis den Transport zum Grillplatz eurer Wahl übernehmen."
+ 
+msgctxt "home.php:info.faq_capabilities_8"
+msgid " Du kannst im großen Stil Getränke für deine Party besorgen."
+msgstr " Du kannst im großen Stil Getränke für deine Party besorgen."
+ 
+msgctxt "home.php:info.faq_capabilities_9"
+msgid " Du kannst deinem Haustier mal einen Ausflug gönnen."
+msgstr " Du kannst deinem Haustier mal einen Ausflug gönnen."
+ 
+msgctxt "home.php:info.faq_capabilities_10"
+msgid " Du kannst bei der Katzenstreu-Aktion mal richtig zuschlagen."
+msgstr " Du kannst bei der Katzenstreu-Aktion mal richtig zuschlagen."
+ 
+msgctxt "home.php:info.faq_capabilities_11"
+msgid " Du kannst ein Lastenrad als Hochzeitskutsche benutzen. - Kein Scherz, wir haben Fotos! ;-)"
+msgstr " Du kannst ein Lastenrad als Hochzeitskutsche benutzen. - Kein Scherz, wir haben Fotos! ;-)"
+ 
+msgctxt "home.php:info.faq_capabilities_12"
+msgid " Du kannst Sperrmüll zur Sammelstelle bringen."
+msgstr " Du kannst Sperrmüll zur Sammelstelle bringen."
+ 
+msgctxt "home.php:info.faq_capabilities_13"
+msgid " Du kannst Sport-Equipment wie zB Bälle, Luftmatratzen, Schlauchboote usw. transportieren."
+msgstr " Du kannst Sport-Equipment wie zB Bälle, Luftmatratzen, Schlauchboote usw. transportieren."
+ 
+msgctxt "home.php:info.faq_capabilities_14"
+msgid " Du kannst es einfach mal ausprobieren und ohne Last lässig durch die Stadt cruisen."
+msgstr " Du kannst es einfach mal ausprobieren und ohne Last lässig durch die Stadt cruisen."
+ 
+msgctxt "home.php:info.faq_howto_subtitle"
+msgid "Wie funktioniert das Ausleihen?"
+msgstr "Wie funktioniert das Ausleihen?"
+ 
+msgctxt "home.php:info.faq_howto_text"
+msgid "Registrieren, reservieren, abholen. - So einfach ist das! An der Verleihstation bekommst du den Schlüssel und schon kannst du losfahren. Am Ende deines individuellen Ausleihzeitraums bringst du das Lastenrad pünktlich wieder zur Verleihstation zurück, kettest es an und gibst den Schlüssel ab. Bitte achte auf die Öffnungszeiten der Verleihstation!"
+msgstr "Registrieren, reservieren, abholen. - So einfach ist das! An der Verleihstation bekommst du den Schlüssel und schon kannst du losfahren. Am Ende deines individuellen Ausleihzeitraums bringst du das Lastenrad pünktlich wieder zur Verleihstation zurück, kettest es an und gibst den Schlüssel ab. Bitte achte auf die Öffnungszeiten der Verleihstation!"
+ 
+msgctxt "home.php:info.faq_requirements_subtitle"
+msgid "Worauf muss ich achten?"
+msgstr "Worauf muss ich achten?"
+ 
+msgctxt "home.php:info.faq_requirements_1"
+msgid "Bitte bring einen Lichtbildausweis mit, damit dich die Leute an der Verleihstation identifizieren können."
+msgstr "Bitte bring einen Lichtbildausweis mit, damit dich die Leute an der Verleihstation identifizieren können."
+ 
+msgctxt "home.php:info.faq_requirements_2"
+msgid "Drehe bei deinem ersten Mal auf einer wenig befahrenen Straße oder - noch besser - einem leeren Parkplatz eine vorsichtige Runde, damit du mit dem neuen Gefährt vertraut wirst."
+msgstr "Drehe bei deinem ersten Mal auf einer wenig befahrenen Straße oder - noch besser - einem leeren Parkplatz eine vorsichtige Runde, damit du mit dem neuen Gefährt vertraut wirst."
+ 
+msgctxt "home.php:info.faq_requirements_3"
+msgid "Achte darauf, dass deine Sachen nicht verrutschen oder aus der Transportbox fallen können."
+msgstr "Achte darauf, dass deine Sachen nicht verrutschen oder aus der Transportbox fallen können."
+ 
+msgctxt "home.php:info.faq_requirements_4"
+msgid "Fahre immer vorsichtig und nicht zu schnell."
+msgstr "Fahre immer vorsichtig und nicht zu schnell."
+ 
+msgctxt "home.php:info.faq_requirements_5"
+msgid "Achte besonders auf die anderen Verkehrsteilnehmer/innen und Fußgänger/innen."
+msgstr "Achte besonders auf die anderen Verkehrsteilnehmer/innen und Fußgänger/innen."
+ 
+msgctxt "home.php:info.faq_requirements_6"
+msgid "Fahr über keine Kanten wie zB Gehsteige."
+msgstr "Fahr über keine Kanten wie zB Gehsteige."
+ 
+msgctxt "home.php:info.faq_requirements_7"
+msgid "Vermeide Straßen mit Straßenbahnschienen bzw. achte darauf, dass du nicht in Schienen hineinfährst."
+msgstr "Vermeide Straßen mit Straßenbahnschienen bzw. achte darauf, dass du nicht in Schienen hineinfährst."
+ 
+msgctxt "home.php:info.faq_requirements_8"
+msgid "Stelle das Lastenrad immer so ab, dass es niemanden behindert."
+msgstr "Stelle das Lastenrad immer so ab, dass es niemanden behindert."
+ 
+msgctxt "home.php:info.faq_requirements_9"
+msgid "Kette das Lastenrad mit dem Schloss an einen festen Gegenstand an, damit es nicht gestohlen werden kann."
+msgstr "Kette das Lastenrad mit dem Schloss an einen festen Gegenstand an, damit es nicht gestohlen werden kann."
+ 
+msgctxt "home.php:info.faq_requirements_10"
+msgid "Wir hoffen es zwar nicht, aber falls du in einen Unfall verwickelt sein solltest, melde das bitte umgehend bei deiner Verleihstation."
+msgstr "Wir hoffen es zwar nicht, aber falls du in einen Unfall verwickelt sein solltest, melde das bitte umgehend bei deiner Verleihstation."
+ 
+msgctxt "home.php:info.faq_contribute_subtitle"
+msgid "Wie/was kann ich dazu beitragen?"
+msgstr "Wie/was kann ich dazu beitragen?"
+ 
+msgctxt "home.php:info.faq_contribute_1"
+msgid "Du kannst dein Lastenrad oder das Lastenrad deines Vereins oder Unternehmens verleihen. Registriere dich dazu bitte einfach und klick auf "Neues Transportrad anlegen" im Log-in-Bereich."
+msgstr "Du kannst dein Lastenrad oder das Lastenrad deines Vereins oder Unternehmens verleihen. Registriere dich dazu bitte einfach und klick auf "Neues Transportrad anlegen" im Log-in-Bereich."
+ 
+msgctxt "home.php:info.faq_contribute_2"
+msgid "Du kannst bei den meisten Verleihstationen eine kleine Spende hinterlegen, die in Wartung, Reparaturen und Ersatzteile fließt."
+msgstr "Du kannst bei den meisten Verleihstationen eine kleine Spende hinterlegen, die in Wartung, Reparaturen und Ersatzteile fließt."
+ 
+msgctxt "home.php:info.faq_station_why_subtitle"
+msgid "Warum sollte ich Verleihstation werden?"
+msgstr "Warum sollte ich Verleihstation werden?"
+ 
+msgctxt "home.php:info.faq_station_why_1"
+msgid "Es ist eine gute Werbung für dich bzw. dein Unternehmen."
+msgstr "Es ist eine gute Werbung für dich bzw. dein Unternehmen."
+ 
+msgctxt "home.php:info.faq_station_why_2"
+msgid "Du gewinnst Lastenradfahrer/innen als neue Kund/innen."
+msgstr "Du gewinnst Lastenradfahrer/innen als neue Kund/innen."
+ 
+msgctxt "home.php:info.faq_station_why_3"
+msgid "Du tust was für die Umwelt und dein Image."
+msgstr "Du tust was für die Umwelt und dein Image."
+ 
+msgctxt "home.php:info.faq_station_why_4"
+msgid "Du lernst neue Menschen kennen."
+msgstr "Du lernst neue Menschen kennen."
+ 
+msgctxt "home.php:info.faq_station_why_5"
+msgid "Es kostet dich nichts, außer täglich einige wenige Minuten Zeit und bei Rädern mit Hilfsantrieb ein paar Akku-Ladungen Strom, die dir aber nicht auffallen werden."
+msgstr "Es kostet dich nichts, außer täglich einige wenige Minuten Zeit und bei Rädern mit Hilfsantrieb ein paar Akku-Ladungen Strom, die dir aber nicht auffallen werden."
+ 
+msgctxt "home.php:info.faq_station_why_6"
+msgid "Du hast kaum Aufwand und keinerlei Haftung oder Verantwortung."
+msgstr "Du hast kaum Aufwand und keinerlei Haftung oder Verantwortung."
+ 
+msgctxt "home.php:info.faq_station_why_7"
+msgid "Last, but not least: Du kannst dir das Rad selbst ausleihen und hast es bereits direkt vor Ort."
+msgstr "Last, but not least: Du kannst dir das Rad selbst ausleihen und hast es bereits direkt vor Ort."
+ 
+msgctxt "home.php:info.faq_station_howto_subtitle"
+msgid "Wie werde ich Verleihstation und was benötige ich dazu?"
+msgstr "Wie werde ich Verleihstation und was benötige ich dazu?"
+ 
+msgctxt "home.php:info.faq_station_howto_text"
+msgid "Du benötigst nur einen Stellplatz in oder vor deinem Gebäude. Eine Garage bzw. ein überdachter Stellplatz wäre super, muss aber nicht sein. Was du aber auf jeden Fall haben solltest, sind regelmäßige Öffnungszeiten. Egal ob du ein Händler, ein Gastronomiebetrieb, ein Handwerker, ein Büro etc. bist: Probier es einfach mal aus! Wenn du noch Fragen dazu hast, schreib uns bitte eine E-Mail an <a href="mailto:mail@das-lastenrad.at">mail@das-lastenrad.at</a> und wir melden uns bei dir."
+msgstr "Du benötigst nur einen Stellplatz in oder vor deinem Gebäude. Eine Garage bzw. ein überdachter Stellplatz wäre super, muss aber nicht sein. Was du aber auf jeden Fall haben solltest, sind regelmäßige Öffnungszeiten. Egal ob du ein Händler, ein Gastronomiebetrieb, ein Handwerker, ein Büro etc. bist: Probier es einfach mal aus! Wenn du noch Fragen dazu hast, schreib uns bitte eine E-Mail an <a href="mailto:mail@das-lastenrad.at">mail@das-lastenrad.at</a> und wir melden uns bei dir."
+ 
+msgctxt "home.php:data_protection.title"
+msgid "Datenschutzerklärung"
+msgstr "Datenschutzerklärung"
+ 
+msgctxt "home.php:data_protection.intro"
+msgid "Der Schutz deiner persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten deine Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informieren wir dich über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website."
+msgstr "Der Schutz deiner persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten deine Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informieren wir dich über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website."
+ 
+msgctxt "home.php:data_protection.contact_subtitle"
+msgid "Kontakt mit uns"
+msgstr "Kontakt mit uns"
+ 
+msgctxt "home.php:data_protection.contact_text"
+msgid "Wenn du per Formular auf der Website oder per E-Mail Kontakt mit uns aufnimmst, werden deine angegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen sechs Monate lang bei uns gespeichert. Diese Daten geben wir nicht ohne deine Einwilligung weiter."
+msgstr "Wenn du per Formular auf der Website oder per E-Mail Kontakt mit uns aufnimmst, werden deine angegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen sechs Monate lang bei uns gespeichert. Diese Daten geben wir nicht ohne deine Einwilligung weiter."
+ 
+msgctxt "home.php:data_protection.data_storage_subtitle"
+msgid "Datenspeicherung"
+msgstr "Datenspeicherung"
+ 
+msgctxt "home.php:data_protection.data_storage_text"
+msgid "Wir weisen darauf hin, dass zum Zweck der Verleihabwicklung die IP-Daten des Anschussinhabers gespeichert werden, ebenso die Verleih-Zeit, das gebuchte Lastenrad, Name und E-Mail des Verleih-Nutzers. Die von dir bereitgestellten Daten sind zur Durchführung des Verleihvorganges erforderlich. Ohne diese Daten können wir den Verleih des Lastenrades an den Verleih-Nutzer nicht durchführen, eine Datenübermittlung an Dritte erfolgt ausschließlich an Verleiher/innen im Zuge eines Verleihvorgangs.<br><br>Bei Löschung einer Lastenrad-Buchung werden diese bei uns gespeicherten Daten gelöscht."
+msgstr "Wir weisen darauf hin, dass zum Zweck der Verleihabwicklung die IP-Daten des Anschussinhabers gespeichert werden, ebenso die Verleih-Zeit, das gebuchte Lastenrad, Name und E-Mail des Verleih-Nutzers. Die von dir bereitgestellten Daten sind zur Durchführung des Verleihvorganges erforderlich. Ohne diese Daten können wir den Verleih des Lastenrades an den Verleih-Nutzer nicht durchführen, eine Datenübermittlung an Dritte erfolgt ausschließlich an Verleiher/innen im Zuge eines Verleihvorgangs.<br><br>Bei Löschung einer Lastenrad-Buchung werden diese bei uns gespeicherten Daten gelöscht."
+ 
+msgctxt "home.php:data_protection.identity_confirmation_subtitle"
+msgid "Identitätsbestätigung bei der Abholung eines Lastenrades"
+msgstr "Identitätsbestätigung bei der Abholung eines Lastenrades"
+ 
+msgctxt "home.php:data_protection.identity_confirmation_text"
+msgid "Bei der Abholung des Lastenrades musst du deine Identität mit deinem (amtlichen) Lichtbildausweis bestätigen und deinen Namen, Anschrift, Telefonnummer, Art und Nummer deines Lichtbild-Ausweises, sowie den Zeitraum und die Verleihstation deiner Ausleihe in einem Papier-Formular angeben. Dieses Papier-Formular wird von der Verleihstation aufbewahrt und bei einem etwaigen Wechsel der Verleihstation zur Aufbewahrung an den Verein zur Förderung von Lastenrädern übergeben.<br><br>Diese Daten werden nicht an Dritte weitergegeben. Nach sechs Monaten werden die Papier-Formulare und damit die darauf erhobenen Daten vernichtet."
+msgstr "Bei der Abholung des Lastenrades musst du deine Identität mit deinem (amtlichen) Lichtbildausweis bestätigen und deinen Namen, Anschrift, Telefonnummer, Art und Nummer deines Lichtbild-Ausweises, sowie den Zeitraum und die Verleihstation deiner Ausleihe in einem Papier-Formular angeben. Dieses Papier-Formular wird von der Verleihstation aufbewahrt und bei einem etwaigen Wechsel der Verleihstation zur Aufbewahrung an den Verein zur Förderung von Lastenrädern übergeben.<br><br>Diese Daten werden nicht an Dritte weitergegeben. Nach sechs Monaten werden die Papier-Formulare und damit die darauf erhobenen Daten vernichtet."
+ 
+msgctxt "home.php:data_protection.cookies_subtitle"
+msgid "Cookies"
+msgstr "Cookies"
+ 
+msgctxt "home.php:data_protection.cookies_text"
+msgid "Unsere Website verwendet sogenannte Cookies. Dabei handelt es sich um kleine Textdateien, die mit Hilfe des Browsers auf deinem Endgerät abgelegt werden. Sie richten keinen Schaden an.<br><br>Wir nutzen Cookies dazu, unser Angebot nutzerfreundlich zu gestalten. Einige Cookies bleiben auf deinem Endgerät gespeichert, bis du sie löschst. Sie ermöglichen es uns, deinen Browser beim nächsten Besuch wiederzuerkennen.<br><br>Wenn du dies nicht wünschst, so kannst du deinen Browser so einrichten, dass er dich über das Setzen von Cookies informiert und du dies nur im Einzelfall erlauben kannst.<br><br>Bei der Deaktivierung von Cookies kann die Funktionalität unserer Website eingeschränkt sein."
+msgstr "Unsere Website verwendet sogenannte Cookies. Dabei handelt es sich um kleine Textdateien, die mit Hilfe des Browsers auf deinem Endgerät abgelegt werden. Sie richten keinen Schaden an.<br><br>Wir nutzen Cookies dazu, unser Angebot nutzerfreundlich zu gestalten. Einige Cookies bleiben auf deinem Endgerät gespeichert, bis du sie löschst. Sie ermöglichen es uns, deinen Browser beim nächsten Besuch wiederzuerkennen.<br><br>Wenn du dies nicht wünschst, so kannst du deinen Browser so einrichten, dass er dich über das Setzen von Cookies informiert und du dies nur im Einzelfall erlauben kannst.<br><br>Bei der Deaktivierung von Cookies kann die Funktionalität unserer Website eingeschränkt sein."
+ 
+msgctxt "home.php:data_protection.newsletter_subtitle"
+msgid "Newsletter"
+msgstr "Newsletter"
+ 
+msgctxt "home.php:data_protection.newsletter_text"
+msgid "Du hast die Möglichkeit, über unsere Website unseren Newsletter zu abonnieren. Hierfür benötigen wir deine E-Mail-Adresse und deine Erklärung, dass du mit dem Bezug des Newsletters einverstanden bist.<br><br>Das Abo des Newsletters kannst du jederzeit stornieren. Sende deine Stornierung bitte an folgende E-Mail-Adresse: <a href='mailto:newsletter@das-lastenrad.at'>newsletter@das-lastenrad.at</a>. Wir löschen anschließend umgehend deine Daten im Zusammenhang mit dem Newsletter-Versand."
+msgstr "Du hast die Möglichkeit, über unsere Website unseren Newsletter zu abonnieren. Hierfür benötigen wir deine E-Mail-Adresse und deine Erklärung, dass du mit dem Bezug des Newsletters einverstanden bist.<br><br>Das Abo des Newsletters kannst du jederzeit stornieren. Sende deine Stornierung bitte an folgende E-Mail-Adresse: <a href='mailto:newsletter@das-lastenrad.at'>newsletter@das-lastenrad.at</a>. Wir löschen anschließend umgehend deine Daten im Zusammenhang mit dem Newsletter-Versand."
+ 
+msgctxt "home.php:data_protection.personal_rights_subtitle"
+msgid "Deine Rechte"
+msgstr "Deine Rechte"
+ 
+msgctxt "home.php:data_protection.personal_rights_text"
+msgid "Dir stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn du glaubst, dass die Verarbeitung deiner Daten gegen das Datenschutzrecht verstößt oder deine datenschutzrechtlichen Ansprüche sonst in irgendeiner Weise verletzt worden sind, kannst du dich bei der Aufsichtsbehörde beschweren. In Österreich ist dies die Datenschutzbehörde.<br><br>Du erreichst uns unter den im Impressum genannten Kontaktdaten."
+msgstr "Dir stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn du glaubst, dass die Verarbeitung deiner Daten gegen das Datenschutzrecht verstößt oder deine datenschutzrechtlichen Ansprüche sonst in irgendeiner Weise verletzt worden sind, kannst du dich bei der Aufsichtsbehörde beschweren. In Österreich ist dies die Datenschutzbehörde.<br><br>Du erreichst uns unter den im Impressum genannten Kontaktdaten."
+ 
+msgctxt "nav.php:home"
+msgid "Fahrradsuche"
+msgstr "Fahrradsuche"
+ 
+msgctxt "nav.php:bike"
+msgid "Meine Lastenräder"
+msgstr "Meine Lastenräder"
+ 
+msgctxt "nav.php:user_reservations"
+msgid "Meine Reservierungen"
+msgstr "Meine Reservierungen"
+ 
+msgctxt "nav.php:user_edit"
+msgid "Mein Profil"
+msgstr "Mein Profil"
+ 
+msgctxt "nav.php:chat"
+msgid "Meine Chats"
+msgstr "Meine Chats"
+ 
+msgctxt "nav.php:brand_claim"
+msgid "lastenräder verleihen & ausleihen"
+msgstr "lastenräder verleihen & ausleihen"
+ 
+msgctxt "nav.php:info"
+msgid "Info & Faq"
+msgstr "Info & Faq"
+ 
+msgctxt "nav.php:impressum"
+msgid "impressum"
+msgstr "impressum"
+ 
+msgctxt "pagination.php:previous"
+msgid "&laquo; Vorher"
+msgstr "&laquo; Vorher"
+ 
+msgctxt "pagination.php:next"
+msgid "Weiter &raquo;"
+msgstr "Weiter &raquo;"
+ 
+msgctxt "passwords.php:invalid"
+msgid "Falsches Passwort."
+msgstr "Falsches Passwort."
+ 
+msgctxt "passwords.php:password"
+msgid "Passwörter müssen zumindest 8 Zeichen haben und mit Wiederholung übereintstimmen."
+msgstr "Passwörter müssen zumindest 8 Zeichen haben und mit Wiederholung übereintstimmen."
+ 
+msgctxt "passwords.php:reset"
+msgid "Ihr Password wurde zurückgesetzt!"
+msgstr "Ihr Password wurde zurückgesetzt!"
+ 
+msgctxt "passwords.php:sent"
+msgid "Wir haben Ihnen einen Passwort-Reset Link zugeschickt!"
+msgstr "Wir haben Ihnen einen Passwort-Reset Link zugeschickt!"
+ 
+msgctxt "passwords.php:token"
+msgid "Der Passwort-Reset Token ist ungültig."
+msgstr "Der Passwort-Reset Token ist ungültig."
+ 
+msgctxt "passwords.php:user"
+msgid "Wir können keinen User mit dieser E-Mail Adresse finden."
+msgstr "Wir können keinen User mit dieser E-Mail Adresse finden."
+ 
+msgctxt "search.php:form.flex.flex"
+msgid "Flexibles Datum"
+msgstr "Flexibles Datum"
+ 
+msgctxt "search.php:form.flex.1"
+msgid "+/- 1 Tag"
+msgstr "+/- 1 Tag"
+ 
+msgctxt "search.php:form.flex.2"
+msgid "+/- 2 Tag"
+msgstr "+/- 2 Tag"
+ 
+msgctxt "search.php:form.flex.3"
+msgid "+/- 3 Tag"
+msgstr "+/- 3 Tag"
+ 
+msgctxt "search.php:form.details"
+msgid "Detailsuche"
+msgstr "Detailsuche"
+ 
+msgctxt "search.php:form.time"
+msgid "Abholung und Rückgabe"
+msgstr "Abholung und Rückgabe"
+ 
+msgctxt "search.php:form.cargo_weight"
+msgid "Zuladung"
+msgstr "Zuladung"
+ 
+msgctxt "search.php:form.cargo_width"
+msgid "Breite der Ladefläche"
+msgstr "Breite der Ladefläche"
+ 
+msgctxt "search.php:form.cargo_length"
+msgid "Länge der Ladefläche"
+msgstr "Länge der Ladefläche"
+ 
+msgctxt "search.php:form.children"
+msgid "Kindersitzplätze"
+msgstr "Kindersitzplätze"
+ 
+msgctxt "search.php:form.electric"
+msgid "Elektro-Unterstützung"
+msgstr "Elektro-Unterstützung"
+ 
+msgctxt "search.php:form.wheels"
+msgid "Transportradtyp"
+msgstr "Transportradtyp"
+ 
+msgctxt "search.php:form.box_type_id"
+msgid "Transport-Kiste"
+msgstr "Transport-Kiste"
+ 
+msgctxt "search.php:form.reset"
+msgid "Suche/Filter zurücksetzen"
+msgstr "Suche/Filter zurücksetzen"
+ 
+msgctxt "search.php:randomness_hint"
+msgid "Aus Datenschutzgründen werden die Symbole nicht exakt am Standort, sondern unmittelbar in der Nähe angezeigt. Die genaue Adresse erfährst Du nach der Reservierung."
+msgstr "Aus Datenschutzgründen werden die Symbole nicht exakt am Standort, sondern unmittelbar in der Nähe angezeigt. Die genaue Adresse erfährst Du nach der Reservierung."
+ 
+msgctxt "search.php:current_location"
+msgid "Aktuelle Position"
+msgstr "Aktuelle Position"
+ 
+msgctxt "search.php:no_result"
+msgid "Keine geeigneten Räder für deine Suchkriterien gefunden. Bitte ändere deine Kriterien."
+msgstr "Keine geeigneten Räder für deine Suchkriterien gefunden. Bitte ändere deine Kriterien."
+ 
+msgctxt "search.php:result.cargo_weight"
+msgid "Maximale Zuladung: :n kg"
+msgstr "Maximale Zuladung: :n kg"
+ 
+msgctxt "search.php:result.cargo_length"
+msgid "Länge der Ladefläche: :n cm"
+msgstr "Länge der Ladefläche: :n cm"
+ 
+msgctxt "search.php:result.cargo_width"
+msgid "Breite der Ladefläche: :n cm"
+msgstr "Breite der Ladefläche: :n cm"
+ 
+msgctxt "search.php:result.children"
+msgid "Kindersitz"
+msgstr "Kindersitz"
+ 
+msgctxt "search.php:result.reserve_link"
+msgid "Zur Reservierung"
+msgstr "Zur Reservierung"
+ 
+msgctxt "search.php:index.popup_title"
+msgid "Lastenräder"
+msgstr "Lastenräder"
+ 
+msgctxt "search.php:index.invalid_location"
+msgid "Standort konnte nicht bestimmt werden."
+msgstr "Standort konnte nicht bestimmt werden."
+ 
+msgctxt "user.php:firstname"
+msgid "Vorname"
+msgstr "Vorname"
+ 
+msgctxt "user.php:lastname"
+msgid "Nachname"
+msgstr "Nachname"
+ 
+msgctxt "user.php:date_of_birth"
+msgid "Geburtsdatum"
+msgstr "Geburtsdatum"
+ 
+msgctxt "user.php:gender.gender"
+msgid "Geschlecht"
+msgstr "Geschlecht"
+ 
+msgctxt "user.php:gender."
+msgid "keine Angabe"
+msgstr "keine Angabe"
+ 
+msgctxt "user.php:gender.MALE"
+msgid "männlich"
+msgstr "männlich"
+ 
+msgctxt "user.php:gender.FEMALE"
+msgid "weiblich"
+msgstr "weiblich"
+ 
+msgctxt "user.php:reservations.title"
+msgid "Meine Reservierungen"
+msgstr "Meine Reservierungen"
+ 
+msgctxt "user.php:reservations.category_new"
+msgid "Aktuelle Reservierungen"
+msgstr "Aktuelle Reservierungen"
+ 
+msgctxt "user.php:reservations.category_new_empty"
+msgid "Keine aktuellen Reservierungen vorhanden"
+msgstr "Keine aktuellen Reservierungen vorhanden"
+ 
+msgctxt "user.php:reservations.category_old"
+msgid "Vergangene Reservierungen"
+msgstr "Vergangene Reservierungen"
+ 
+msgctxt "user.php:reservations.category_old_empty"
+msgid "Keine vergangenen Reservierungen vorhanden"
+msgstr "Keine vergangenen Reservierungen vorhanden"
+ 
+msgctxt "user.php:reservations.btn_contact"
+msgid "Kontakt aufnehmen"
+msgstr "Kontakt aufnehmen"
+ 
+msgctxt "user.php:reservations.btn_details"
+msgid "Details"
+msgstr "Details"
+ 
+msgctxt "user.php:reservations.btn_cancel"
+msgid "Reservierung stornieren"
+msgstr "Reservierung stornieren"
+ 
+msgctxt "user.php:reservations.btn_edit"
+msgid "Reservierung bearbeiten"
+msgstr "Reservierung bearbeiten"
+ 
+msgctxt "user.php:reservations.not_yet_confirmed"
+msgid "Die Reservierung wurde noch nicht bestätigt."
+msgstr "Die Reservierung wurde noch nicht bestätigt."
+ 
+msgctxt "user.php:reservation.title"
+msgid "Reservierung: :name"
+msgstr "Reservierung: :name"
+ 
+msgctxt "user.php:reservation.header_from"
+msgid "Abholung"
+msgstr "Abholung"
+ 
+msgctxt "user.php:reservation.header_to"
+msgid "Rückgabe"
+msgstr "Rückgabe"
+ 
+msgctxt "user.php:reservation.btn_bike"
+msgid "Lastenrad-Details"
+msgstr "Lastenrad-Details"
+ 
+msgctxt "user.php:reservation.place_not_found"
+msgid "Standort konnte nicht bestimmt werden. Bitte Kontakt aufnehmen."
+msgstr "Standort konnte nicht bestimmt werden. Bitte Kontakt aufnehmen."
+ 
+msgctxt "user.php:reservation.messages.confirmed"
+msgid "Danke für deine Reservierung! Du kannst das Transportrad am gewünschten Tag abholen."
+msgstr "Danke für deine Reservierung! Du kannst das Transportrad am gewünschten Tag abholen."
+ 
+msgctxt "user.php:reservation.messages.unconfirmed"
+msgid "Danke für deine Anfrage. Bitte warte auf die Annahme oder Ablehnung durch die/den Verleiher/in. - Wir informieren dich darüber natürlich auch per E-Mail."
+msgstr "Danke für deine Anfrage. Bitte warte auf die Annahme oder Ablehnung durch die/den Verleiher/in. - Wir informieren dich darüber natürlich auch per E-Mail."
+ 
+msgctxt "user.php:reservation.messages.unconfirmed_contact_prompt"
+msgid "Falls du nicht zeitnah eine Annahme oder Ablehnung erhalten solltest, nimm bitte Kontakt mit der/dem Verleiher/in auf."
+msgstr "Falls du nicht zeitnah eine Annahme oder Ablehnung erhalten solltest, nimm bitte Kontakt mit der/dem Verleiher/in auf."
+ 
+msgctxt "user.php:reservation_cancel.title"
+msgid "Reservierung stornieren"
+msgstr "Reservierung stornieren"
+ 
+msgctxt "user.php:reservation_cancel.hint"
+msgid "Möchtest du die Reservierung wirklich stornieren?"
+msgstr "Möchtest du die Reservierung wirklich stornieren?"
+ 
+msgctxt "user.php:edit.title"
+msgid "Mein Profil"
+msgstr "Mein Profil"
+ 
+msgctxt "user.php:edit.email_old"
+msgid "Aktuelle E-Mail-Adresse"
+msgstr "Aktuelle E-Mail-Adresse"
+ 
+msgctxt "user.php:edit.password_new"
+msgid "Neues Passwort"
+msgstr "Neues Passwort"
+ 
+msgctxt "user.php:edit.password_new_confirmation"
+msgid "Wiederholung Neues Passwort"
+msgstr "Wiederholung Neues Passwort"
+ 
+msgctxt "user.php:delete.header"
+msgid "Account löschen"
+msgstr "Account löschen"
+ 
+msgctxt "user.php:delete.hint"
+msgid "Möchtest du deinen Account wirklich löschen?"
+msgstr "Möchtest du deinen Account wirklich löschen?"
+ 
+msgctxt "user.php:delete.hint_not_possible"
+msgid "Account kann nicht gelöscht werden."
+msgstr "Account kann nicht gelöscht werden."
+ 
+msgctxt "user.php:delete.hint_bikes"
+msgid "Du hast noch aktive Räder"
+msgstr "Du hast noch aktive Räder"
+ 
+msgctxt "user.php:delete.hint_reservations"
+msgid "Du hast noch austehende Reservierungen"
+msgstr "Du hast noch austehende Reservierungen"
+ 
+msgctxt "user.php:deleted"
+msgid "[gelöschter Benutzer]"
+msgstr "[gelöschter Benutzer]"
+ 
+msgctxt "user.php:newsletter_confirmation.title"
+msgid "Newsletter Anmeldung"
+msgstr "Newsletter Anmeldung"
+ 
+msgctxt "user.php:newsletter_confirmation.text"
+msgid "Du hast dich erfolgreich zum Newsletter angemeldet."
+msgstr "Du hast dich erfolgreich zum Newsletter angemeldet."
+ 
+msgctxt "validation.php:accepted"
+msgid ":attribute muss akzeptiert werden."
+msgstr ":attribute muss akzeptiert werden."
+ 
+msgctxt "validation.php:active_url"
+msgid ":attribute ist keine gültige Internet-Adresse."
+msgstr ":attribute ist keine gültige Internet-Adresse."
+ 
+msgctxt "validation.php:after"
+msgid ":attribute muss ein Datum nach dem :date sein."
+msgstr ":attribute muss ein Datum nach dem :date sein."
+ 
+msgctxt "validation.php:after_or_equal"
+msgid ":attribute muss ein Datum nach dem :date oder gleich dem :date sein."
+msgstr ":attribute muss ein Datum nach dem :date oder gleich dem :date sein."
+ 
+msgctxt "validation.php:alpha"
+msgid ":attribute darf nur aus Buchstaben bestehen."
+msgstr ":attribute darf nur aus Buchstaben bestehen."
+ 
+msgctxt "validation.php:alpha_dash"
+msgid ":attribute darf nur aus Buchstaben, Zahlen, Binde- und Unterstrichen bestehen."
+msgstr ":attribute darf nur aus Buchstaben, Zahlen, Binde- und Unterstrichen bestehen."
+ 
+msgctxt "validation.php:alpha_num"
+msgid ":attribute darf nur aus Buchstaben und Zahlen bestehen."
+msgstr ":attribute darf nur aus Buchstaben und Zahlen bestehen."
+ 
+msgctxt "validation.php:array"
+msgid ":attribute muss ein Array sein."
+msgstr ":attribute muss ein Array sein."
+ 
+msgctxt "validation.php:before"
+msgid ":attribute muss ein Datum vor dem :date sein."
+msgstr ":attribute muss ein Datum vor dem :date sein."
+ 
+msgctxt "validation.php:before_or_equal"
+msgid ":attribute muss ein Datum vor dem :date oder gleich dem :date sein."
+msgstr ":attribute muss ein Datum vor dem :date oder gleich dem :date sein."
+ 
+msgctxt "validation.php:between.numeric"
+msgid ":attribute muss zwischen :min & :max liegen."
+msgstr ":attribute muss zwischen :min & :max liegen."
+ 
+msgctxt "validation.php:between.file"
+msgid ":attribute muss zwischen :min & :max Kilobytes groß sein."
+msgstr ":attribute muss zwischen :min & :max Kilobytes groß sein."
+ 
+msgctxt "validation.php:between.string"
+msgid ":attribute muss zwischen :min & :max Zeichen lang sein."
+msgstr ":attribute muss zwischen :min & :max Zeichen lang sein."
+ 
+msgctxt "validation.php:between.array"
+msgid ":attribute muss zwischen :min & :max Elemente haben."
+msgstr ":attribute muss zwischen :min & :max Elemente haben."
+ 
+msgctxt "validation.php:boolean"
+msgid ":attribute muss entweder 'true' oder 'false' sein."
+msgstr ":attribute muss entweder 'true' oder 'false' sein."
+ 
+msgctxt "validation.php:confirmed"
+msgid ":attribute stimmt nicht mit der Bestätigung überein."
+msgstr ":attribute stimmt nicht mit der Bestätigung überein."
+ 
+msgctxt "validation.php:date"
+msgid ":attribute muss ein gültiges Datum sein."
+msgstr ":attribute muss ein gültiges Datum sein."
+ 
+msgctxt "validation.php:date_equals"
+msgid ":attribute muss ein Datum gleich :date sein."
+msgstr ":attribute muss ein Datum gleich :date sein."
+ 
+msgctxt "validation.php:date_format"
+msgid ":attribute entspricht nicht dem gültigen Format für :format."
+msgstr ":attribute entspricht nicht dem gültigen Format für :format."
+ 
+msgctxt "validation.php:different"
+msgid ":attribute und :other müssen sich unterscheiden."
+msgstr ":attribute und :other müssen sich unterscheiden."
+ 
+msgctxt "validation.php:digits"
+msgid ":attribute muss :digits Stellen haben."
+msgstr ":attribute muss :digits Stellen haben."
+ 
+msgctxt "validation.php:digits_between"
+msgid ":attribute muss zwischen :min und :max Stellen haben."
+msgstr ":attribute muss zwischen :min und :max Stellen haben."
+ 
+msgctxt "validation.php:dimensions"
+msgid ":attribute hat ungültige Bildabmessungen."
+msgstr ":attribute hat ungültige Bildabmessungen."
+ 
+msgctxt "validation.php:distinct"
+msgid ":attribute beinhaltet einen bereits vorhandenen Wert."
+msgstr ":attribute beinhaltet einen bereits vorhandenen Wert."
+ 
+msgctxt "validation.php:email"
+msgid ":attribute muss eine gültige E-Mail-Adresse sein."
+msgstr ":attribute muss eine gültige E-Mail-Adresse sein."
+ 
+msgctxt "validation.php:ends_with"
+msgid ":attribute muss eine der folgenden Endungen aufweisen: :values"
+msgstr ":attribute muss eine der folgenden Endungen aufweisen: :values"
+ 
+msgctxt "validation.php:exists"
+msgid "Der gewählte Wert für :attribute ist ungültig."
+msgstr "Der gewählte Wert für :attribute ist ungültig."
+ 
+msgctxt "validation.php:file"
+msgid ":attribute muss eine Datei sein."
+msgstr ":attribute muss eine Datei sein."
+ 
+msgctxt "validation.php:filled"
+msgid ":attribute muss ausgefüllt sein."
+msgstr ":attribute muss ausgefüllt sein."
+ 
+msgctxt "validation.php:gt.numeric"
+msgid ":attribute muss größer als :value sein."
+msgstr ":attribute muss größer als :value sein."
+ 
+msgctxt "validation.php:gt.file"
+msgid ":attribute muss größer als :value Kilobytes sein."
+msgstr ":attribute muss größer als :value Kilobytes sein."
+ 
+msgctxt "validation.php:gt.string"
+msgid ":attribute muss länger als :value Zeichen sein."
+msgstr ":attribute muss länger als :value Zeichen sein."
+ 
+msgctxt "validation.php:gt.array"
+msgid ":attribute muss mehr als :value Elemente haben."
+msgstr ":attribute muss mehr als :value Elemente haben."
+ 
+msgctxt "validation.php:gte.numeric"
+msgid ":attribute muss größer oder gleich :value sein."
+msgstr ":attribute muss größer oder gleich :value sein."
+ 
+msgctxt "validation.php:gte.file"
+msgid ":attribute muss größer oder gleich :value Kilobytes sein."
+msgstr ":attribute muss größer oder gleich :value Kilobytes sein."
+ 
+msgctxt "validation.php:gte.string"
+msgid ":attribute muss mindestens :value Zeichen lang sein."
+msgstr ":attribute muss mindestens :value Zeichen lang sein."
+ 
+msgctxt "validation.php:gte.array"
+msgid ":attribute muss mindestens :value Elemente haben."
+msgstr ":attribute muss mindestens :value Elemente haben."
+ 
+msgctxt "validation.php:image"
+msgid ":attribute muss ein Bild sein."
+msgstr ":attribute muss ein Bild sein."
+ 
+msgctxt "validation.php:in"
+msgid "Der gewählte Wert für :attribute ist ungültig."
+msgstr "Der gewählte Wert für :attribute ist ungültig."
+ 
+msgctxt "validation.php:in_array"
+msgid "Der gewählte Wert für :attribute kommt nicht in :other vor."
+msgstr "Der gewählte Wert für :attribute kommt nicht in :other vor."
+ 
+msgctxt "validation.php:integer"
+msgid ":attribute muss eine ganze Zahl sein."
+msgstr ":attribute muss eine ganze Zahl sein."
+ 
+msgctxt "validation.php:ip"
+msgid ":attribute muss eine gültige IP-Adresse sein."
+msgstr ":attribute muss eine gültige IP-Adresse sein."
+ 
+msgctxt "validation.php:ipv4"
+msgid ":attribute muss eine gültige IPv4-Adresse sein."
+msgstr ":attribute muss eine gültige IPv4-Adresse sein."
+ 
+msgctxt "validation.php:ipv6"
+msgid ":attribute muss eine gültige IPv6-Adresse sein."
+msgstr ":attribute muss eine gültige IPv6-Adresse sein."
+ 
+msgctxt "validation.php:json"
+msgid ":attribute muss ein gültiger JSON-String sein."
+msgstr ":attribute muss ein gültiger JSON-String sein."
+ 
+msgctxt "validation.php:lt.numeric"
+msgid ":attribute muss kleiner als :value sein."
+msgstr ":attribute muss kleiner als :value sein."
+ 
+msgctxt "validation.php:lt.file"
+msgid ":attribute muss kleiner als :value Kilobytes sein."
+msgstr ":attribute muss kleiner als :value Kilobytes sein."
+ 
+msgctxt "validation.php:lt.string"
+msgid ":attribute muss kürzer als :value Zeichen sein."
+msgstr ":attribute muss kürzer als :value Zeichen sein."
+ 
+msgctxt "validation.php:lt.array"
+msgid ":attribute muss weniger als :value Elemente haben."
+msgstr ":attribute muss weniger als :value Elemente haben."
+ 
+msgctxt "validation.php:lte.numeric"
+msgid ":attribute muss kleiner oder gleich :value sein."
+msgstr ":attribute muss kleiner oder gleich :value sein."
+ 
+msgctxt "validation.php:lte.file"
+msgid ":attribute muss kleiner oder gleich :value Kilobytes sein."
+msgstr ":attribute muss kleiner oder gleich :value Kilobytes sein."
+ 
+msgctxt "validation.php:lte.string"
+msgid ":attribute darf maximal :value Zeichen lang sein."
+msgstr ":attribute darf maximal :value Zeichen lang sein."
+ 
+msgctxt "validation.php:lte.array"
+msgid ":attribute darf maximal :value Elemente haben."
+msgstr ":attribute darf maximal :value Elemente haben."
+ 
+msgctxt "validation.php:max.numeric"
+msgid ":attribute darf maximal :max sein."
+msgstr ":attribute darf maximal :max sein."
+ 
+msgctxt "validation.php:max.file"
+msgid ":attribute darf maximal :max Kilobytes groß sein."
+msgstr ":attribute darf maximal :max Kilobytes groß sein."
+ 
+msgctxt "validation.php:max.string"
+msgid ":attribute darf maximal :max Zeichen haben."
+msgstr ":attribute darf maximal :max Zeichen haben."
+ 
+msgctxt "validation.php:max.array"
+msgid ":attribute darf maximal :max Elemente haben."
+msgstr ":attribute darf maximal :max Elemente haben."
+ 
+msgctxt "validation.php:mimes"
+msgid ":attribute muss den Dateityp :values haben."
+msgstr ":attribute muss den Dateityp :values haben."
+ 
+msgctxt "validation.php:mimetypes"
+msgid ":attribute muss den Dateityp :values haben."
+msgstr ":attribute muss den Dateityp :values haben."
+ 
+msgctxt "validation.php:min.numeric"
+msgid ":attribute muss mindestens :min sein."
+msgstr ":attribute muss mindestens :min sein."
+ 
+msgctxt "validation.php:min.file"
+msgid ":attribute muss mindestens :min Kilobytes groß sein."
+msgstr ":attribute muss mindestens :min Kilobytes groß sein."
+ 
+msgctxt "validation.php:min.string"
+msgid ":attribute muss mindestens :min Zeichen lang sein."
+msgstr ":attribute muss mindestens :min Zeichen lang sein."
+ 
+msgctxt "validation.php:min.array"
+msgid ":attribute muss mindestens :min Elemente haben."
+msgstr ":attribute muss mindestens :min Elemente haben."
+ 
+msgctxt "validation.php:multiple_of"
+msgid ":attribute muss ein Vielfaches von :value sein."
+msgstr ":attribute muss ein Vielfaches von :value sein."
+ 
+msgctxt "validation.php:not_in"
+msgid "Der gewählte Wert für :attribute ist ungültig."
+msgstr "Der gewählte Wert für :attribute ist ungültig."
+ 
+msgctxt "validation.php:not_regex"
+msgid ":attribute hat ein ungültiges Format."
+msgstr ":attribute hat ein ungültiges Format."
+ 
+msgctxt "validation.php:numeric"
+msgid ":attribute muss eine Zahl sein."
+msgstr ":attribute muss eine Zahl sein."
+ 
+msgctxt "validation.php:password"
+msgid "Das Passwort ist falsch."
+msgstr "Das Passwort ist falsch."
+ 
+msgctxt "validation.php:present"
+msgid ":attribute muss vorhanden sein."
+msgstr ":attribute muss vorhanden sein."
+ 
+msgctxt "validation.php:regex"
+msgid ":attribute Format ist ungültig."
+msgstr ":attribute Format ist ungültig."
+ 
+msgctxt "validation.php:required"
+msgid ":attribute muss ausgefüllt werden."
+msgstr ":attribute muss ausgefüllt werden."
+ 
+msgctxt "validation.php:required_if"
+msgid ":attribute muss ausgefüllt werden, wenn :other den Wert :value hat."
+msgstr ":attribute muss ausgefüllt werden, wenn :other den Wert :value hat."
+ 
+msgctxt "validation.php:required_unless"
+msgid ":attribute muss ausgefüllt werden, wenn :other nicht den Wert :values hat."
+msgstr ":attribute muss ausgefüllt werden, wenn :other nicht den Wert :values hat."
+ 
+msgctxt "validation.php:required_with"
+msgid ":attribute muss ausgefüllt werden, wenn :values ausgefüllt wurde."
+msgstr ":attribute muss ausgefüllt werden, wenn :values ausgefüllt wurde."
+ 
+msgctxt "validation.php:required_with_all"
+msgid ":attribute muss ausgefüllt werden, wenn :values ausgefüllt wurde."
+msgstr ":attribute muss ausgefüllt werden, wenn :values ausgefüllt wurde."
+ 
+msgctxt "validation.php:required_without"
+msgid ":attribute muss ausgefüllt werden, wenn :values nicht ausgefüllt wurde."
+msgstr ":attribute muss ausgefüllt werden, wenn :values nicht ausgefüllt wurde."
+ 
+msgctxt "validation.php:required_without_all"
+msgid ":attribute muss ausgefüllt werden, wenn keines der Felder :values ausgefüllt wurde."
+msgstr ":attribute muss ausgefüllt werden, wenn keines der Felder :values ausgefüllt wurde."
+ 
+msgctxt "validation.php:same"
+msgid ":attribute und :other müssen übereinstimmen."
+msgstr ":attribute und :other müssen übereinstimmen."
+ 
+msgctxt "validation.php:size.numeric"
+msgid ":attribute muss gleich :size sein."
+msgstr ":attribute muss gleich :size sein."
+ 
+msgctxt "validation.php:size.file"
+msgid ":attribute muss :size Kilobyte groß sein."
+msgstr ":attribute muss :size Kilobyte groß sein."
+ 
+msgctxt "validation.php:size.string"
+msgid ":attribute muss :size Zeichen lang sein."
+msgstr ":attribute muss :size Zeichen lang sein."
+ 
+msgctxt "validation.php:size.array"
+msgid ":attribute muss genau :size Elemente haben."
+msgstr ":attribute muss genau :size Elemente haben."
+ 
+msgctxt "validation.php:starts_with"
+msgid ":attribute muss mit einem der folgenden Anfänge aufweisen: :values"
+msgstr ":attribute muss mit einem der folgenden Anfänge aufweisen: :values"
+ 
+msgctxt "validation.php:string"
+msgid ":attribute muss ein String sein."
+msgstr ":attribute muss ein String sein."
+ 
+msgctxt "validation.php:timezone"
+msgid ":attribute muss eine gültige Zeitzone sein."
+msgstr ":attribute muss eine gültige Zeitzone sein."
+ 
+msgctxt "validation.php:unique"
+msgid ":attribute ist bereits vergeben."
+msgstr ":attribute ist bereits vergeben."
+ 
+msgctxt "validation.php:uploaded"
+msgid ":attribute konnte nicht hochgeladen werden."
+msgstr ":attribute konnte nicht hochgeladen werden."
+ 
+msgctxt "validation.php:url"
+msgid ":attribute muss eine URL sein."
+msgstr ":attribute muss eine URL sein."
+ 
+msgctxt "validation.php:uuid"
+msgid ":attribute muss ein UUID sein."
+msgstr ":attribute muss ein UUID sein."
+ 
+msgctxt "validation.php:custom.allowed_font_family"
+msgid "Angegebene Schriftart ist nicht erlaubt"
+msgstr "Angegebene Schriftart ist nicht erlaubt"
+ 
+msgctxt "validation.php:custom.rental_period_overlap"
+msgid "Verleihzeit überschneidet sich mit existierendem Zeitraum"
+msgstr "Verleihzeit überschneidet sich mit existierendem Zeitraum"
+ 
+msgctxt "validation.php:custom.rental_period_exception_time_overlap"
+msgid "Uhrzeit überschneidet mit existierender Zeitspanne"
+msgstr "Uhrzeit überschneidet mit existierender Zeitspanne"
+ 
+msgctxt "validation.php:custom.bike_publish_accept_tos"
+msgid "Du musst die AGB akzeptieren."
+msgstr "Du musst die AGB akzeptieren."
+ 
+msgctxt "validation.php:custom.bike_publish_checkboxes"
+msgid "Du musst die AGB akzeptieren und bestätigen, dass du das Transportrad verleihen kannst, um zu veröffentlichen."
+msgstr "Du musst die AGB akzeptieren und bestätigen, dass du das Transportrad verleihen kannst, um zu veröffentlichen."
+ 
+msgctxt "validation.php:custom.weekday_not_checked"
+msgid "Es muss zumindest ein Wochentag ausgewählt werden"
+msgstr "Es muss zumindest ein Wochentag ausgewählt werden"
+ 
+msgctxt "validation.php:custom.embed_edit_bikes_doesnt_exist"
+msgid "Das Rad kann nicht zu einer Einbindung zugeteilt werden."
+msgstr "Das Rad kann nicht zu einer Einbindung zugeteilt werden."
+ 
+msgctxt "validation.php:custom.color_not_matching"
+msgid "Der Farbwert :value ist ungültig"
+msgstr "Der Farbwert :value ist ungültig"
+ 
+msgctxt "validation.php:custom.required_date_time"
+msgid "Bitte gib ein Datum und eine Uhrzeit ein (zB 15:00 oder 3:00 PM)"
+msgstr "Bitte gib ein Datum und eine Uhrzeit ein (zB 15:00 oder 3:00 PM)"
+ 
+msgctxt "validation.php:custom.required_time"
+msgid "Bitte gib eine Uhrzeit ein (zB 15:00 oder 3:00 PM)"
+msgstr "Bitte gib eine Uhrzeit ein (zB 15:00 oder 3:00 PM)"
+ 
+msgctxt "validation.php:custom.rentee_limitation_invalid_emails"
+msgid "Enthält ungültige E-Mail Addressen."
+msgstr "Enthält ungültige E-Mail Addressen."
+ 
+msgctxt "validation.php:custom.decimal_format"
+msgid "Bitte gib eine Dezmial Zahl in der Form "#", "#.##" oder "#,##" ein."
+msgstr "Bitte gib eine Dezmial Zahl in der Form "#", "#.##" oder "#,##" ein."
+ 
+msgctxt "validation.php:custom.reservation.not_available"
+msgid "Das Rad ist für den angegebenen Zeitraum nicht verfügbar."
+msgstr "Das Rad ist für den angegebenen Zeitraum nicht verfügbar."
+ 
+msgctxt "validation.php:custom.reservation.already_reserved"
+msgid "Das Rad ist für den angegebenen Zeitraum bereits reserviert."
+msgstr "Das Rad ist für den angegebenen Zeitraum bereits reserviert."
+ 
+msgctxt "validation.php:custom.reservation.duration"
+msgid "Der angegebene Zeitraum überschreitet die maximale Verleihzeit."
+msgstr "Der angegebene Zeitraum überschreitet die maximale Verleihzeit."
+ 
+msgctxt "validation.php:custom.reservation.reserve_buffer_overlap"
+msgid "Deine Reservierung ist leider nicht möglich, da bei diesem Transportrad vor jeder Reservierung :buffer_time_before Minuten und nach jeder Reservierung :buffer_time_after Minuten Pufferzeit reserviert sind. - Bitte verschiebe deine Reservierung entsprechend."
+msgstr "Deine Reservierung ist leider nicht möglich, da bei diesem Transportrad vor jeder Reservierung :buffer_time_before Minuten und nach jeder Reservierung :buffer_time_after Minuten Pufferzeit reserviert sind. - Bitte verschiebe deine Reservierung entsprechend."
+ 
+msgctxt "validation.php:custom.reservation.reserve_from_on_edit_current"
+msgid "Beim Bearbeiten von Reservierungen die gerade am Laufen sind kann die Abhol-Zeit nicht mehr verändert werden."
+msgstr "Beim Bearbeiten von Reservierungen die gerade am Laufen sind kann die Abhol-Zeit nicht mehr verändert werden."
+ 
+msgctxt "validation.php:attributes.name"
+msgid "Name"
+msgstr "Name"
+ 
+msgctxt "validation.php:attributes.username"
+msgid "Benutzername"
+msgstr "Benutzername"
+ 
+msgctxt "validation.php:attributes.email"
+msgid "E-Mail Adresse"
+msgstr "E-Mail Adresse"
+ 
+msgctxt "validation.php:attributes.first_name"
+msgid "Vorname"
+msgstr "Vorname"
+ 
+msgctxt "validation.php:attributes.last_name"
+msgid "Nachname"
+msgstr "Nachname"
+ 
+msgctxt "validation.php:attributes.password"
+msgid "Passwort"
+msgstr "Passwort"
+ 
+msgctxt "validation.php:attributes.password_confirmation"
+msgid "Passwort Bestätigung"
+msgstr "Passwort Bestätigung"
+ 
+msgctxt "validation.php:attributes.current_password"
+msgid "Derzeitiges Passwort"
+msgstr "Derzeitiges Passwort"
+ 
+msgctxt "validation.php:attributes.city"
+msgid "Stadt"
+msgstr "Stadt"
+ 
+msgctxt "validation.php:attributes.country"
+msgid "Land"
+msgstr "Land"
+ 
+msgctxt "validation.php:attributes.address"
+msgid "Adresse"
+msgstr "Adresse"
+ 
+msgctxt "validation.php:attributes.phone"
+msgid "Telefonnummer"
+msgstr "Telefonnummer"
+ 
+msgctxt "validation.php:attributes.mobile"
+msgid "Handynummer"
+msgstr "Handynummer"
+ 
+msgctxt "validation.php:attributes.age"
+msgid "Alter"
+msgstr "Alter"
+ 
+msgctxt "validation.php:attributes.sex"
+msgid "Geschlecht"
+msgstr "Geschlecht"
+ 
+msgctxt "validation.php:attributes.gender"
+msgid "Geschlecht"
+msgstr "Geschlecht"
+ 
+msgctxt "validation.php:attributes.day"
+msgid "Tag"
+msgstr "Tag"
+ 
+msgctxt "validation.php:attributes.month"
+msgid "Monat"
+msgstr "Monat"
+ 
+msgctxt "validation.php:attributes.year"
+msgid "Jahr"
+msgstr "Jahr"
+ 
+msgctxt "validation.php:attributes.hour"
+msgid "Stunde"
+msgstr "Stunde"
+ 
+msgctxt "validation.php:attributes.minute"
+msgid "Minute"
+msgstr "Minute"
+ 
+msgctxt "validation.php:attributes.second"
+msgid "Sekunde"
+msgstr "Sekunde"
+ 
+msgctxt "validation.php:attributes.title"
+msgid "Titel"
+msgstr "Titel"
+ 
+msgctxt "validation.php:attributes.content"
+msgid "Inhalt"
+msgstr "Inhalt"
+ 
+msgctxt "validation.php:attributes.description"
+msgid "Beschreibung"
+msgstr "Beschreibung"
+ 
+msgctxt "validation.php:attributes.excerpt"
+msgid "Auszug"
+msgstr "Auszug"
+ 
+msgctxt "validation.php:attributes.date"
+msgid "Datum"
+msgstr "Datum"
+ 
+msgctxt "validation.php:attributes.time"
+msgid "Uhrzeit"
+msgstr "Uhrzeit"
+ 
+msgctxt "validation.php:attributes.available"
+msgid "verfügbar"
+msgstr "verfügbar"
+ 
+msgctxt "validation.php:attributes.size"
+msgid "Größe"
+msgstr "Größe"

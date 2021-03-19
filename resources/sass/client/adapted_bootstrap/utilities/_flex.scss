@@ -1,0 +1,51 @@
+// stylelint-disable declaration-no-important
+
+// Flex variation
+//
+// Custom styles for additional flex alignment options.
+
+@each $breakpoint in map-keys($grid-breakpoints) {
+  @include media-breakpoint-up($breakpoint) {
+    $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
+
+    .kel-flex#{$infix}-row            { flex-direction: row !important; }
+    .kel-flex#{$infix}-column         { flex-direction: column !important; }
+    .kel-flex#{$infix}-row-reverse    { flex-direction: row-reverse !important; }
+    .kel-flex#{$infix}-column-reverse { flex-direction: column-reverse !important; }
+
+    .kel-flex#{$infix}-wrap         { flex-wrap: wrap !important; }
+    .kel-flex#{$infix}-nowrap       { flex-wrap: nowrap !important; }
+    .kel-flex#{$infix}-wrap-reverse { flex-wrap: wrap-reverse !important; }
+    .kel-flex#{$infix}-fill         { flex: 1 1 auto !important; }
+    .kel-flex#{$infix}-grow-0       { flex-grow: 0 !important; }
+    .kel-flex#{$infix}-grow-1       { flex-grow: 1 !important; }
+    .kel-flex#{$infix}-shrink-0     { flex-shrink: 0 !important; }
+    .kel-flex#{$infix}-shrink-1     { flex-shrink: 1 !important; }
+
+    .kel-justify-content#{$infix}-start   { justify-content: flex-start !important; }
+    .kel-justify-content#{$infix}-end     { justify-content: flex-end !important; }
+    .kel-justify-content#{$infix}-center  { justify-content: center !important; }
+    .kel-justify-content#{$infix}-between { justify-content: space-between !important; }
+    .kel-justify-content#{$infix}-around  { justify-content: space-around !important; }
+
+    .kel-align-items#{$infix}-start    { align-items: flex-start !important; }
+    .kel-align-items#{$infix}-end      { align-items: flex-end !important; }
+    .kel-align-items#{$infix}-center   { align-items: center !important; }
+    .kel-align-items#{$infix}-baseline { align-items: baseline !important; }
+    .kel-align-items#{$infix}-stretch  { align-items: stretch !important; }
+
+    .kel-align-content#{$infix}-start   { align-content: flex-start !important; }
+    .kel-align-content#{$infix}-end     { align-content: flex-end !important; }
+    .kel-align-content#{$infix}-center  { align-content: center !important; }
+    .kel-align-content#{$infix}-between { align-content: space-between !important; }
+    .kel-align-content#{$infix}-around  { align-content: space-around !important; }
+    .kel-align-content#{$infix}-stretch { align-content: stretch !important; }
+
+    .kel-align-self#{$infix}-auto     { align-self: auto !important; }
+    .kel-align-self#{$infix}-start    { align-self: flex-start !important; }
+    .kel-align-self#{$infix}-end      { align-self: flex-end !important; }
+    .kel-align-self#{$infix}-center   { align-self: center !important; }
+    .kel-align-self#{$infix}-baseline { align-self: baseline !important; }
+    .kel-align-self#{$infix}-stretch  { align-self: stretch !important; }
+  }
+}

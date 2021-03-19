@@ -1,0 +1,24 @@
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+$grey: #808080;
+
+$cal_evt_color_instant: #4dcb82 !default;
+$cal_evt_color_inquiry: #3b94de !default;
+$cal_evt_color_restricted: $grey !default;
+$cal_evt_color_blocked: $red !default;
+$cal_evt_color_reserved: $orange !default;
+$cal_evt_color_pending: $yellow !default;
+
+$primary: #00aaae;

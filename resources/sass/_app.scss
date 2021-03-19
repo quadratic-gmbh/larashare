@@ -1,0 +1,330 @@
+main {
+  min-height: calc(100vh - 168px); 
+}
+
+#calendar-legend {
+  &>li{
+    height: 48px;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  #calendar-legend {
+    &>li{
+      height: 75px;
+    }
+  }
+}
+  
+.calendar-context-btns {
+  a {
+   color: white;
+   padding: 0 4px; 
+  }
+}
+
+.calendar-container {
+  position: relative; 
+ 
+  .calendar-overlay {      
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+    background-color: rgba($primary,.25);
+    border-radius: 5px;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    position: absolute;
+    
+    .inner {      
+      border: 2px solid color-yiq($primary);
+      color: color-yiq($primary);
+      background-color: $primary;                                
+      border-radius: 10px;      
+      padding: 15px;
+
+      >div {
+        text-align: center;
+      }
+      .icons {
+        font-size: 4rem;      
+      }    
+    
+      .text {        
+        max-width: 400px; 
+      }
+    }
+  }
+}
+
+.fc-today {
+  background: inherit;
+  border-left-color: rgb(222, 226, 230);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-color: rgb(222, 226, 230);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-spacing: 0px 0px;
+  border-top-color: rgb(222, 226, 230);
+  border-top-style: dotted;
+  border-top-width: 1px;
+}
+
+.noUi-connect {
+  background: $primary; 
+}
+
+// search results card columns
+$search-cards-per-line: (
+    xs: 1,
+    sm: 2,
+    md: 2,
+    lg: 3,
+    xl: 4
+);
+@each $name, $breakpoint in $grid-breakpoints {
+    @media (min-width: $breakpoint) {
+        .card-deck-search .card {
+            flex: 0 0 calc(#{100/map-get($search-cards-per-line, $name)}% - #{$grid-gutter-width});
+        }
+    }
+}
+
+.container-fluid {  
+  @media (min-width: 1400px) {
+    .card-deck-search .card {
+       flex: 0 0 calc(20% - #{$grid-gutter-width}); 
+    } 
+  }
+}
+
+$cal-evt-colors: (
+ 'inquiry': $cal_evt_color_inquiry,
+ 'instant': $cal_evt_color_instant,
+ 'restricted': $cal_evt_color_restricted,
+ 'blocked': $cal_evt_color_blocked,
+ 'reserved': $cal_evt_color_reserved,
+ 'pending': $cal_evt_color_pending
+);
+
+@each $name, $color in $cal-evt-colors {
+  .cal-evt-#{$name} {  
+    border-color: $color;
+    background-color: $color; 
+    opacity: 1!important;
+  }   
+}
+.cal-evt-pending {
+  color: black;
+  
+  .fc-resizer {
+    color:black; 
+  }
+}
+
+.cal-evt-clickable {
+  @include hover-focus {  
+    cursor: pointer;
+    border: 2px solid black;         
+  }
+
+  &.cal-evt-pending {
+    @include hover-focus {     
+      background-color: scale-color($cal_evt_color_pending,$lightness: -30%);         
+      border-color: scale-color($cal_evt_color_pending,$lightness: -30%);
+      color: black;
+    } 
+  }
+
+  &.cal-evt-reserved {
+    @include hover-focus {     
+      background-color: scale-color($cal_evt_color_reserved,$lightness: -30%);         
+      border-color: scale-color($cal_evt_color_reserved,$lightness: -30%);         
+    } 
+  }   
+}
+
+.cal-evt-no-interrupt {
+  border-bottom: 4px solid red;
+}
+
+.cal-evt-legend {
+  height: 32px;
+  width: 32px;
+  min-width: 32px;
+  margin-right: 10px;
+  display: inline-block; 
+}
+
+@media(max-width:500px) {
+  .fc-toolbar {
+    display: block;
+    
+    .fc-left,
+    .fc-center,
+    .fc-right {
+      width: 100%; 
+    } 
+  } 
+}
+
+.fc-view-container {
+  overflow-x: auto;
+  
+  .fc-view {
+    &.fc-timeGridWeek-view,
+    &.fc-timeGrid-view {
+      min-width: 840px; 
+    }        
+  } 
+}
+
+.fc-bgevent .fc-title {
+  line-height: 1.4;
+  font-size: 0.85rem; 
+}
+
+.map-popup {
+  padding:10px;
+}
+.map-popup .map-popup-title {
+  margin-bottom:5px;
+  border-bottom:1px solid #000;
+  text-transform:uppercase;
+}
+
+.search-result-item {
+  border: 2px solid $primary;
+  
+  &.active {
+    border-color: $success; 
+    box-shadow: 0 0 5px 5px $success;
+  }   
+}
+
+.search-result-item-image-container {
+  position: relative;
+}
+
+.search-result-item-image-icon {
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  width: 32px;
+  height: 32px;
+}
+
+.embed-responsive-map {
+  @include media-breakpoint-up('lg') {
+    &::before {
+      padding-top: 500px;
+    }
+  }
+  @include media-breakpoint-only('md') {
+    &::before {
+      padding-top: percentage(9/21);      
+    }     
+  }
+
+  @include media-breakpoint-only('sm') {
+    &::before {
+      padding-top: 66%;
+    }     
+  }
+
+  @include media-breakpoint-only('xs') {
+    &::before {
+      padding-top: 100%;
+    }     
+  }
+}
+
+.delete-info {
+  .delete-info-list,
+  .delete-info-list a,
+  .delete-info-head {
+    color: $danger; 
+  }
+}
+
+.embed-code:not(.active) {
+  display: none;
+  visibility: hidden;
+}
+
+.code-input {
+  font-family: $font-family-monospace;
+  font-size: $code-font-size;
+}
+
+#brand.navbar-brand {  
+  .brand-claim {  
+    font-size: 1rem;
+    white-space: normal;
+    text-transform: uppercase;
+  }
+  .brand-logo {     
+     width: auto;
+  }
+  @media(max-width: 1549.98px) {
+    display: flex;
+    align-items: center;
+    
+    .brand-logo {
+      height: 70px; 
+    }
+    
+    .brand-claim {
+      max-width: 85px;
+      font-size: 0.75rem;
+      margin-left: 10px; 
+    }
+  }
+  
+  @media(min-width: 1550px) {
+    width: 159px;
+    text-align: center;
+    position: absolute;
+    margin: 20px;
+    top: 56px;
+    left: 0;
+  
+    .brand-logo {
+      height: 100px; 
+    }
+  
+    .brand-claim {
+      padding-top: 20px;
+    }
+  }
+}
+
+#footer {
+  padding: 20px;
+  background-color: $primary;
+  color: white;
+  #footer-left {
+    display: flex;
+    align-items: flex-end; 
+  }
+  #footer-links {
+    @include media-breakpoint-up(sm) {
+      text-align: right;  
+    }    
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+    font-weight: bold;    
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    a {
+     @include plain-hover-focus() {
+       color: white; 
+     } 
+    }
+  } 
+}
